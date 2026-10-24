@@ -1,0 +1,20 @@
+# ==============================================================================
+# Public Index Offline Vault Security & Local File Isolation
+# ==============================================================================
+# Proprietary remediation error ledgers, SQL patch scripts, and local JSON
+# summaries remain strictly isolated in local workspace vaults.
+offline_vault/
+*.csv
+*.json
+!manifest.json
+*.zip
+*.gz
+*.tar
+*.bak
+*.tmp
+
+# OS & Workspace Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
