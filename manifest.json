@@ -2,32 +2,33 @@
     "metadata": {
         "title": "Elite Data Solution - Hospital Price Transparency Diagnostic Index",
         "version": "1.1.0",
-        "compiled_at": "2026-10-30T07:03:06.522852+00:00",
+        "compiled_at": "2026-11-01T06:29:12.406998+00:00",
         "repository": "https://github.com/Elite-Data-Solution/hospital-transparency-audits",
         "contact_email": "audit@elitedatasolution.net",
         "portal_url": "https://elitedatasolution.net",
         "governing_standard": "45 CFR Part 180 (Hospital Price Transparency Mandates)"
     },
     "stats": {
-        "total_hospitals_audited": 75,
-        "total_states": 10,
-        "total_rows_scanned": 3205975,
-        "total_defects_cataloged": 4213607,
+        "total_hospitals_audited": 100,
+        "total_states": 11,
+        "total_rows_scanned": 3477673,
+        "total_defects_cataloged": 4265886,
         "total_compliant_facilities": 0,
-        "total_non_compliant_facilities": 75,
+        "total_non_compliant_facilities": 100,
         "total_obstructed_facilities": 0,
         "total_bot_blocking_facilities": 0,
         "state_breakdown": {
-            "Alabama": 12,
-            "Alaska": 4,
-            "Arizona": 8,
-            "Arkansas": 14,
-            "California": 5,
+            "Alabama": 18,
+            "Alaska": 5,
+            "Arizona": 9,
+            "Arkansas": 17,
+            "California": 8,
             "Iowa": 1,
-            "Maryland": 2,
+            "Maryland": 4,
             "New Jersey": 3,
             "New York": 1,
-            "Pennsylvania": 25
+            "Oregon": 1,
+            "Pennsylvania": 33
         }
     },
     "categories": {
@@ -43,17 +44,25 @@
             "East Alabama Medical Center",
             "Hill Crest Behavioral Health Services",
             "Jackson Medical Center",
+            "Laurel Oaks Behavioral Health Center",
+            "Lawrence Medical Center",
+            "Noland Hospital Birmingham Ii, Llc",
+            "Noland Hospital Montgomery Ii, Llc",
+            "Springhill Memorial Hospital",
             "Tanner Medical Center-east Alabama",
+            "Troy Regional Medical Center",
             "Wiregrass Medical Center",
             "Alaska Regional Hospital",
             "Bartlett Regional Hospital",
             "Fairbanks Memorial Hospital",
+            "Providence Seward Medical Center",
             "St Elias Specialty Hospital",
             "Aurora Behavioral Health System",
             "Copper Queen Community Hospital",
             "Honor Health Deer Valley Medical Center",
             "Honorhealth Scottsdale Osborn Medical Center",
             "Honorhealth Sonoran Crossing Medical Center",
+            "Mt. Graham Regional Medical Center",
             "Oasis Behavioral Health Hospital",
             "Sonora Behavioral Health Hospital",
             "The Guidance Center",
@@ -71,18 +80,27 @@
             "Bradley County Medical Center",
             "Forrest City Medical Center",
             "Fulton County Hospital",
+            "Mercy Rehabilitation Hospital",
+            "Ouachita County Medical Center",
+            "Ozark Health Inc",
             "Kaiser Foundation Hospital Baldwin Park",
             "Kaiser Foundation Hospital Downey",
             "Kaiser Foundation Hospital Fontana",
             "Kaiser Foundation Hospital Los Angeles",
             "Kaiser Foundation Hospital Oakland Richmond",
+            "Kaiser Foundation Hospital San Francisco",
+            "Kaiser Foundation Hospital San Jose",
+            "Kaiser Foundation Hospital South San Francisco",
             "Guttenberg Municipal Hospital",
             "Howard County General Hospital",
             "Johns Hopkins Bayview Medical Center",
+            "Suburban Hospital",
+            "The Johns Hopkins Hospital",
             "Inspira Medical Center Elmer",
             "Inspira Medical center Vineland",
             "Inspira Medical Center Woodbury",
             "Brooke Glen Behavioral Hospital",
+            "Pioneer Memorial Hospital",
             "Albert Einstein Medical Center",
             "Armstrong Center for Medicine and Health",
             "Belmont Behavioral Health System",
@@ -104,8 +122,16 @@
             "Holy Redeemer Hospital",
             "Indiana Regional Medical Center",
             "Jefferson Hospital",
+            "Meadows Psychiatric Center",
+            "OSS Health",
+            "Penn Highlands Brookville",
             "Penn Highlands Tyrone",
+            "Physicians Care Surgical Hospital",
+            "Rothman Orthopaedic Specialty Hospital",
             "Saint Vincent Hospital",
+            "The Horsham Clinic",
+            "Warren General Hospital",
+            "West Penn Hospital",
             "Wexford Hospital",
             "Wills Eye Hospital"
         ],
@@ -583,6 +609,199 @@
             "generated_at": "2026-10-18T10:38:52.250733+00:00"
         },
         {
+            "id": "alabama-laurel_oaks_behavioral_health_center",
+            "name": "Laurel Oaks Behavioral Health Center",
+            "state": "Alabama",
+            "folder_name": "Laurel_Oaks_Behavioral_Health_Center",
+            "scanned_rows": 4,
+            "violations_count": 11,
+            "safety_score": 25.3,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Laurel_Oaks_Behavioral_Health_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Laurel_Oaks_Behavioral_Health_Center/Laurel_Oaks_Behavioral_Health_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Laurel_Oaks_Behavioral_Health_Center/Laurel_Oaks_Behavioral_Health_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Laurel_Oaks_Behavioral_Health_Center/Laurel_Oaks_Behavioral_Health_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Schema Error",
+                    "detail": "Invalid File Structure",
+                    "justification": "Missing critical columns: description. File cannot be audited."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '522090040-laurel-oaks-standard_charges.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Invalid Date Format",
+                    "detail": "Preamble update date has invalid format",
+                    "justification": "Preamble date '01-01-2023' is invalid. Expected format: YYYY-MM-DD or MM/DD/YYYY."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Missing Hospital EIN",
+                    "detail": "Machine-readable file preamble is missing required 9-digit Hospital EIN (Employer Identification Number)",
+                    "justification": "45 CFR \u00a7 180.50(d)(5) and 45 CFR \u00a7 180.50(b)(2)(i) require hospital machine-readable files to encode identifiable provider information including Type 2 NPI or 9-digit EIN in the preamble metadata or standard CMS file naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json])."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Missing Hospital Identifier",
+                    "detail": "MRF missing required hospital identification",
+                    "justification": "CMS requires hospital identification in MRF under 45 CFR \u00a7 180.50(b)(2)(i). Missing: Hospital Name, Hospital Location/Address. Found: None."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Laurel Oaks Behavioral Health Center",
+            "generated_at": "2026-11-01T06:29:02.936425+00:00"
+        },
+        {
+            "id": "alabama-lawrence_medical_center",
+            "name": "Lawrence Medical Center",
+            "state": "Alabama",
+            "folder_name": "Lawrence_Medical_Center",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Lawrence_Medical_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Lawrence_Medical_Center/Lawrence_Medical_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Lawrence_Medical_Center/Lawrence_Medical_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Lawrence_Medical_Center/Lawrence_Medical_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Lawrence Medical Center",
+            "generated_at": "2026-11-01T06:25:54.154319+00:00"
+        },
+        {
+            "id": "alabama-noland_hospital_birmingham_ii_llc",
+            "name": "Noland Hospital Birmingham Ii, Llc",
+            "state": "Alabama",
+            "folder_name": "Noland_Hospital_Birmingham_Ii_Llc",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Noland_Hospital_Birmingham_Ii_Llc_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Noland_Hospital_Birmingham_Ii_Llc/Noland_Hospital_Birmingham_Ii_Llc_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Noland_Hospital_Birmingham_Ii_Llc/Noland_Hospital_Birmingham_Ii_Llc_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Noland_Hospital_Birmingham_Ii_Llc/Noland_Hospital_Birmingham_Ii_Llc_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Noland Hospital Birmingham Ii, Llc",
+            "generated_at": "2026-11-01T06:23:12.801772+00:00"
+        },
+        {
+            "id": "alabama-noland_hospital_montgomery_ii_llc",
+            "name": "Noland Hospital Montgomery Ii, Llc",
+            "state": "Alabama",
+            "folder_name": "Noland_Hospital_Montgomery_Ii_Llc",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Noland_Hospital_Montgomery_Ii_Llc_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Noland_Hospital_Montgomery_Ii_Llc/Noland_Hospital_Montgomery_Ii_Llc_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Noland_Hospital_Montgomery_Ii_Llc/Noland_Hospital_Montgomery_Ii_Llc_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Noland_Hospital_Montgomery_Ii_Llc/Noland_Hospital_Montgomery_Ii_Llc_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Noland Hospital Montgomery Ii, Llc",
+            "generated_at": "2026-11-01T06:29:04.560657+00:00"
+        },
+        {
+            "id": "alabama-springhill_memorial_hospital",
+            "name": "Springhill Memorial Hospital",
+            "state": "Alabama",
+            "folder_name": "Springhill_Memorial_Hospital",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Springhill_Memorial_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Springhill_Memorial_Hospital/Springhill_Memorial_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Springhill_Memorial_Hospital/Springhill_Memorial_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Springhill_Memorial_Hospital/Springhill_Memorial_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xml'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Springhill Memorial Hospital",
+            "generated_at": "2026-11-01T06:25:54.625107+00:00"
+        },
+        {
             "id": "alabama-tanner_medical_center-east_alabama",
             "name": "Tanner Medical Center-east Alabama",
             "state": "Alabama",
@@ -642,6 +861,39 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Tanner Medical Center-east Alabama",
             "generated_at": "2026-10-30T07:01:20.120839+00:00"
+        },
+        {
+            "id": "alabama-troy_regional_medical_center",
+            "name": "Troy Regional Medical Center",
+            "state": "Alabama",
+            "folder_name": "Troy_Regional_Medical_Center",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Troy_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alabama/Troy_Regional_Medical_Center/Troy_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alabama/Troy_Regional_Medical_Center/Troy_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alabama/Troy_Regional_Medical_Center/Troy_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Troy Regional Medical Center",
+            "generated_at": "2026-11-01T06:25:52.588715+00:00"
         },
         {
             "id": "alabama-wiregrass_medical_center",
@@ -886,6 +1138,39 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Fairbanks Memorial Hospital",
             "generated_at": "2026-10-24T09:56:38.464571+00:00"
+        },
+        {
+            "id": "alaska-providence_seward_medical_center",
+            "name": "Providence Seward Medical Center",
+            "state": "Alaska",
+            "folder_name": "Providence_Seward_Medical_Center",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Providence_Seward_Medical_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Alaska/Providence_Seward_Medical_Center/Providence_Seward_Medical_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Alaska/Providence_Seward_Medical_Center/Providence_Seward_Medical_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Alaska/Providence_Seward_Medical_Center/Providence_Seward_Medical_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Providence Seward Medical Center",
+            "generated_at": "2026-11-01T06:25:50.912506+00:00"
         },
         {
             "id": "alaska-st_elias_specialty_hospital",
@@ -1196,6 +1481,39 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Honorhealth Sonoran Crossing Medical Center",
             "generated_at": "2026-10-24T10:19:23.911532+00:00"
+        },
+        {
+            "id": "arizona-mt_graham_regional_medical_center",
+            "name": "Mt. Graham Regional Medical Center",
+            "state": "Arizona",
+            "folder_name": "Mt_Graham_Regional_Medical_Center",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Mt_Graham_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Arizona/Mt_Graham_Regional_Medical_Center/Mt_Graham_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Arizona/Mt_Graham_Regional_Medical_Center/Mt_Graham_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Arizona/Mt_Graham_Regional_Medical_Center/Mt_Graham_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Mt. Graham Regional Medical Center",
+            "generated_at": "2026-11-01T06:23:16.850889+00:00"
         },
         {
             "id": "arizona-oasis_behavioral_health_hospital",
@@ -1871,6 +2189,161 @@
             "generated_at": "2026-10-24T10:19:29.432381+00:00"
         },
         {
+            "id": "arkansas-mercy_rehabilitation_hospital",
+            "name": "Mercy Rehabilitation Hospital",
+            "state": "Arkansas",
+            "folder_name": "Mercy_Rehabilitation_Hospital",
+            "scanned_rows": 125544,
+            "violations_count": 5258,
+            "safety_score": 98.78,
+            "safety_grade": "A+",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Arkansas/Mercy_Rehabilitation_Hospital/Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Arkansas/Mercy_Rehabilitation_Hospital/Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Arkansas/Mercy_Rehabilitation_Hospital/Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Stale Date",
+                    "detail": "Preamble update date is outdated",
+                    "justification": "Last updated date '2025-08-10' is 448 days old (>365 days limit). Ref: 45 CFR \u00a7 180.50(e) - Annual File Refresh Requirement."
+                },
+                {
+                    "row": 108940,
+                    "code": "0",
+                    "type": "Invalid Code Format",
+                    "detail": "OCCLUSION/EMBOL URETERAL",
+                    "justification": "Billing code '0' does not match standard format rules for type 'CPT'."
+                },
+                {
+                    "row": 108941,
+                    "code": "0",
+                    "type": "Invalid Code Format",
+                    "detail": "OCCLUSION/EMBOL URETERAL",
+                    "justification": "Billing code '0' does not match standard format rules for type 'CPT'."
+                },
+                {
+                    "row": 108942,
+                    "code": "0",
+                    "type": "Invalid Code Format",
+                    "detail": "OCCLUSION/EMBOL URETERAL",
+                    "justification": "Billing code '0' does not match standard format rules for type 'CPT'."
+                },
+                {
+                    "row": 108943,
+                    "code": "0",
+                    "type": "Invalid Code Format",
+                    "detail": "OCCLUSION/EMBOL URETERAL",
+                    "justification": "Billing code '0' does not match standard format rules for type 'CPT'."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Mercy Rehabilitation Hospital",
+            "generated_at": "2026-11-01T06:25:24.715303+00:00"
+        },
+        {
+            "id": "arkansas-ouachita_county_medical_center",
+            "name": "Ouachita County Medical Center",
+            "state": "Arkansas",
+            "folder_name": "Ouachita_County_Medical_Center",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Ouachita_County_Medical_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Arkansas/Ouachita_County_Medical_Center/Ouachita_County_Medical_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Arkansas/Ouachita_County_Medical_Center/Ouachita_County_Medical_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Arkansas/Ouachita_County_Medical_Center/Ouachita_County_Medical_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Ouachita County Medical Center",
+            "generated_at": "2026-11-01T06:23:17.979064+00:00"
+        },
+        {
+            "id": "arkansas-ozark_health_inc",
+            "name": "Ozark Health Inc",
+            "state": "Arkansas",
+            "folder_name": "Ozark_Health_Inc",
+            "scanned_rows": 6645,
+            "violations_count": 2171,
+            "safety_score": 92.56,
+            "safety_grade": "A-",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Ozark_Health_Inc_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Arkansas/Ozark_Health_Inc/Ozark_Health_Inc_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Arkansas/Ozark_Health_Inc/Ozark_Health_Inc_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Arkansas/Ozark_Health_Inc/Ozark_Health_Inc_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 119,
+                    "code": "0230",
+                    "type": "Compliance Failure",
+                    "detail": "ISOLATION PER DAY",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'ISOLATION PER DAY' is billed under Revenue Code '0230' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 1729,
+                    "code": "0636",
+                    "type": "Missing Drug Unit Fields",
+                    "detail": "ALBUMIN 10 ML",
+                    "justification": "Row 1729: This item is coded as a pharmaceutical (NDC/J-code/Rev Code 0250) but both 'drug_unit_of_measurement' and 'drug_type_of_measurement' are blank. CMS requires both fields for drug items. Ref: 45 CFR \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2 (Drug Measurement Specifications)."
+                },
+                {
+                    "row": 634,
+                    "code": "0300",
+                    "type": "Compliance Failure",
+                    "detail": "NON-COVERED VENIPUNCTURE",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'NON-COVERED VENIPUNCTURE' is billed under Revenue Code '0300' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 1718,
+                    "code": "0302",
+                    "type": "Compliance Failure",
+                    "detail": "PRIMARY BILIARY CHOLANGITIS PROFILE",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'PRIMARY BILIARY CHOLANGITIS PROFILE' is billed under Revenue Code '0302' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 1772,
+                    "code": "0390",
+                    "type": "Compliance Failure",
+                    "detail": "RARE UNIT SURCHARGE; REFERRAL",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'RARE UNIT SURCHARGE; REFERRAL' is billed under Revenue Code '0390' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Ozark Health Inc",
+            "generated_at": "2026-11-01T06:25:48.133991+00:00"
+        },
+        {
             "id": "california-kaiser_foundation_hospital_baldwin_park",
             "name": "Kaiser Foundation Hospital Baldwin Park",
             "state": "California",
@@ -2034,6 +2507,105 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Kaiser Foundation Hospital Oakland Richmond",
             "generated_at": "2026-10-30T07:03:05.101173+00:00"
+        },
+        {
+            "id": "california-kaiser_foundation_hospital_san_francisco",
+            "name": "Kaiser Foundation Hospital San Francisco",
+            "state": "California",
+            "folder_name": "Kaiser_Foundation_Hospital_San_Francisco",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Kaiser_Foundation_Hospital_San_Francisco_Public_Audit_Report.pdf",
+            "pdf_relative_path": "California/Kaiser_Foundation_Hospital_San_Francisco/Kaiser_Foundation_Hospital_San_Francisco_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/California/Kaiser_Foundation_Hospital_San_Francisco/Kaiser_Foundation_Hospital_San_Francisco_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/California/Kaiser_Foundation_Hospital_San_Francisco/Kaiser_Foundation_Hospital_San_Francisco_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Kaiser Foundation Hospital San Francisco",
+            "generated_at": "2026-11-01T06:25:53.597566+00:00"
+        },
+        {
+            "id": "california-kaiser_foundation_hospital_san_jose",
+            "name": "Kaiser Foundation Hospital San Jose",
+            "state": "California",
+            "folder_name": "Kaiser_Foundation_Hospital_San_Jose",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Kaiser_Foundation_Hospital_San_Jose_Public_Audit_Report.pdf",
+            "pdf_relative_path": "California/Kaiser_Foundation_Hospital_San_Jose/Kaiser_Foundation_Hospital_San_Jose_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/California/Kaiser_Foundation_Hospital_San_Jose/Kaiser_Foundation_Hospital_San_Jose_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/California/Kaiser_Foundation_Hospital_San_Jose/Kaiser_Foundation_Hospital_San_Jose_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Kaiser Foundation Hospital San Jose",
+            "generated_at": "2026-11-01T06:25:53.101544+00:00"
+        },
+        {
+            "id": "california-kaiser_foundation_hospital_south_san_francisco",
+            "name": "Kaiser Foundation Hospital South San Francisco",
+            "state": "California",
+            "folder_name": "Kaiser_Foundation_Hospital_South_San_Francisco",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT FORMAT: UNAUTHORIZED FILE TYPE",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Kaiser_Foundation_Hospital_South_San_Francisco_Public_Audit_Report.pdf",
+            "pdf_relative_path": "California/Kaiser_Foundation_Hospital_South_San_Francisco/Kaiser_Foundation_Hospital_South_San_Francisco_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/California/Kaiser_Foundation_Hospital_South_San_Francisco/Kaiser_Foundation_Hospital_South_San_Francisco_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/California/Kaiser_Foundation_Hospital_South_San_Francisco/Kaiser_Foundation_Hospital_South_San_Francisco_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": "FILE_LEVEL",
+                    "code": "FORMAT",
+                    "type": "Non-Compliant File Format",
+                    "detail": "Facility published standard charges in unauthorized proprietary format '.xlsx'. Under 45 CFR Section 180.50(c)(2) and CMS CY 2024\u20132026 OPPS Mandates (CMS-1784-F), hospitals are strictly required to publish standard charges in standardized CSV or JSON formats. Proprietary spreadsheet formats (.xlsx, .xls) are prohibited by CMS.",
+                    "justification": "Under 45 CFR Section 180.50(c)(2), hospital standard charges must be published strictly in standardized CSV (.csv) or JSON (.json) schema formats. Publishing in proprietary spreadsheet formats (.xlsx, .xls) violates federal price transparency mandates."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Kaiser Foundation Hospital South San Francisco",
+            "generated_at": "2026-11-01T06:25:52.124869+00:00"
         },
         {
             "id": "iowa-guttenberg_municipal_hospital",
@@ -2219,6 +2791,128 @@
             "generated_at": "2026-10-30T07:01:02.437471+00:00"
         },
         {
+            "id": "maryland-suburban_hospital",
+            "name": "Suburban Hospital",
+            "state": "Maryland",
+            "folder_name": "Suburban_Hospital",
+            "scanned_rows": 13837,
+            "violations_count": 1486,
+            "safety_score": 90.29,
+            "safety_grade": "A-",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Suburban_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Maryland/Suburban_Hospital/Suburban_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Maryland/Suburban_Hospital/Suburban_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Maryland/Suburban_Hospital/Suburban_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 13717,
+                    "code": "N/A",
+                    "type": "Compliance Failure",
+                    "detail": "Modifier description not available",
+                    "justification": "Invalid Price Value: Missing required dollar standard charge where dollar amount is required by CMS v3.0 methodology."
+                },
+                {
+                    "row": 2428,
+                    "code": "N800",
+                    "type": "Invalid Code Format",
+                    "detail": "Clinical Diagnostic Lab Services",
+                    "justification": "Billing code 'N800' does not match standard format rules for type 'APC'."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Stale Date",
+                    "detail": "Preamble update date is outdated",
+                    "justification": "Last updated date '2025-07-01' is 488 days old (>365 days limit). Ref: 45 CFR \u00a7 180.50(e) - Annual File Refresh Requirement."
+                },
+                {
+                    "row": 13718,
+                    "code": "N/A",
+                    "type": "Invalid Clinical Setting",
+                    "detail": "Setting value is missing or unpopulated (blank)",
+                    "justification": "Missing required clinical setting value. CMS requires exactly one of: 'inpatient', 'outpatient', 'both'. Ref: 45 CFR \u00a7 180.50(b)(2)(iii) & \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2."
+                },
+                {
+                    "row": 2479,
+                    "code": "N801",
+                    "type": "Compliance Failure",
+                    "detail": "Therapy Services",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Item has internal charge number 'N801' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Suburban Hospital",
+            "generated_at": "2026-11-01T06:28:39.672944+00:00"
+        },
+        {
+            "id": "maryland-the_johns_hopkins_hospital",
+            "name": "The Johns Hopkins Hospital",
+            "state": "Maryland",
+            "folder_name": "The_Johns_Hopkins_Hospital",
+            "scanned_rows": 31222,
+            "violations_count": 5281,
+            "safety_score": 84.19,
+            "safety_grade": "B",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Maryland/The_Johns_Hopkins_Hospital/The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Maryland/The_Johns_Hopkins_Hospital/The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Maryland/The_Johns_Hopkins_Hospital/The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 6439,
+                    "code": "N700",
+                    "type": "Compliance Failure",
+                    "detail": "Non-OPPS Clinic Services",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Item has internal charge number 'N700' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 6446,
+                    "code": "N800",
+                    "type": "Invalid Code Format",
+                    "detail": "Clinical Diagnostic Lab Services",
+                    "justification": "Billing code 'N800' does not match standard format rules for type 'APC'."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Stale Date",
+                    "detail": "Preamble update date is outdated",
+                    "justification": "Last updated date '2025-07-01' is 488 days old (>365 days limit). Ref: 45 CFR \u00a7 180.50(e) - Annual File Refresh Requirement."
+                },
+                {
+                    "row": 11950,
+                    "code": "A9606",
+                    "type": "Missing Drug Unit Fields",
+                    "detail": "HC XOFIGO, RADIUM RA223, PER MICROCURIE",
+                    "justification": "Row 11950: This item is coded as a pharmaceutical (NDC/J-code/Rev Code 0250) but both 'drug_unit_of_measurement' and 'drug_type_of_measurement' are blank. CMS requires both fields for drug items. Ref: 45 CFR \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2 (Drug Measurement Specifications)."
+                },
+                {
+                    "row": 30496,
+                    "code": "N/A",
+                    "type": "Invalid Clinical Setting",
+                    "detail": "Setting value is missing or unpopulated (blank)",
+                    "justification": "Missing required clinical setting value. CMS requires exactly one of: 'inpatient', 'outpatient', 'both'. Ref: 45 CFR \u00a7 180.50(b)(2)(iii) & \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - The Johns Hopkins Hospital",
+            "generated_at": "2026-11-01T06:26:28.752690+00:00"
+        },
+        {
             "id": "new jersey-inspira_medical_center_elmer",
             "name": "Inspira Medical Center Elmer",
             "state": "New Jersey",
@@ -2377,6 +3071,67 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Brooke Glen Behavioral Hospital",
             "generated_at": "2026-10-24T10:19:46.017435+00:00"
+        },
+        {
+            "id": "oregon-pioneer_memorial_hospital",
+            "name": "Pioneer Memorial Hospital",
+            "state": "Oregon",
+            "folder_name": "Pioneer_Memorial_Hospital",
+            "scanned_rows": 77044,
+            "violations_count": 8290,
+            "safety_score": 90.77,
+            "safety_grade": "A-",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Pioneer_Memorial_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Oregon/Pioneer_Memorial_Hospital/Pioneer_Memorial_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Oregon/Pioneer_Memorial_Hospital/Pioneer_Memorial_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Oregon/Pioneer_Memorial_Hospital/Pioneer_Memorial_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 674,
+                    "code": "0360",
+                    "type": "Compliance Failure",
+                    "detail": "BONE BIOPSY",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'BONE BIOPSY' is billed under Revenue Code '0360' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 2333,
+                    "code": "536118297",
+                    "type": "Invalid Code Format",
+                    "detail": "Guaifenesin Liquid 100 MG/5ML",
+                    "justification": "Billing code '536118297' does not match standard format rules for type 'NDC'."
+                },
+                {
+                    "row": 12,
+                    "code": "J0290",
+                    "type": "Missing Drug Unit Fields",
+                    "detail": "AMPICILLIN 500 MG INJ",
+                    "justification": "Row 12: This item is coded as a pharmaceutical (NDC/J-code/Rev Code 0250) but both 'drug_unit_of_measurement' and 'drug_type_of_measurement' are blank. CMS requires both fields for drug items. Ref: 45 CFR \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2 (Drug Measurement Specifications)."
+                },
+                {
+                    "row": 690,
+                    "code": "0750",
+                    "type": "Compliance Failure",
+                    "detail": "COLON POLYP BX",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'COLON POLYP BX' is billed under Revenue Code '0750' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                },
+                {
+                    "row": 1059,
+                    "code": "0490",
+                    "type": "Compliance Failure",
+                    "detail": "PUNCH BIOPSY - ANKLE",
+                    "justification": "Missing Billing Code (CPT/HCPCS): Procedure 'PUNCH BIOPSY - ANKLE' is billed under Revenue Code '0490' but lacks required national CPT/HCPCS code under 45 CFR \u00a7 180.50(b)(2)(iv)."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Pioneer Memorial Hospital",
+            "generated_at": "2026-11-01T06:28:22.374369+00:00"
         },
         {
             "id": "pennsylvania-albert_einstein_medical_center",
@@ -3240,6 +3995,161 @@
             "generated_at": "2026-10-30T07:00:35.923285+00:00"
         },
         {
+            "id": "pennsylvania-meadows_psychiatric_center",
+            "name": "Meadows Psychiatric Center",
+            "state": "Pennsylvania",
+            "folder_name": "Meadows_Psychiatric_Center",
+            "scanned_rows": 6,
+            "violations_count": 14,
+            "safety_score": 31.3,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Meadows_Psychiatric_Center_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/Meadows_Psychiatric_Center/Meadows_Psychiatric_Center_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Meadows_Psychiatric_Center/Meadows_Psychiatric_Center_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Meadows_Psychiatric_Center/Meadows_Psychiatric_Center_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Schema Error",
+                    "detail": "Invalid File Structure",
+                    "justification": "Missing critical columns: description. File cannot be audited."
+                },
+                {
+                    "row": 3,
+                    "code": "0124",
+                    "type": "Invalid Methodology",
+                    "detail": "Clinical Procedure",
+                    "justification": "Invalid methodology '% of Medicare PPS'. Must be: case rate, fee schedule, percent of total billed charges, per diem, or other."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '232842434-meadows-standard_charges.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                },
+                {
+                    "row": 5,
+                    "code": "0124",
+                    "type": "Invalid Methodology",
+                    "detail": "Clinical Procedure",
+                    "justification": "Invalid methodology '% of Medicare PPS'. Must be: case rate, fee schedule, percent of total billed charges, per diem, or other."
+                },
+                {
+                    "row": 7,
+                    "code": "0124",
+                    "type": "Invalid Methodology",
+                    "detail": "Clinical Procedure",
+                    "justification": "Invalid methodology '% of Medicare PPS'. Must be: case rate, fee schedule, percent of total billed charges, per diem, or other."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Meadows Psychiatric Center",
+            "generated_at": "2026-11-01T06:25:49.524940+00:00"
+        },
+        {
+            "id": "pennsylvania-oss_health",
+            "name": "OSS Health",
+            "state": "Pennsylvania",
+            "folder_name": "OSS_Health",
+            "scanned_rows": 5645,
+            "violations_count": 5904,
+            "safety_score": 48.85,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "OSS_Health_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/OSS_Health/OSS_Health_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/OSS_Health/OSS_Health_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/OSS_Health/OSS_Health_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 13,
+                    "code": "454",
+                    "type": "Compliance Failure",
+                    "detail": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+                    "justification": "Invalid Price Value: Missing required dollar standard charge where dollar amount is required by CMS v3.0 methodology."
+                },
+                {
+                    "row": 2326,
+                    "code": "99070UU",
+                    "type": "Invalid Code Format",
+                    "detail": "Biofreeze Per Tube",
+                    "justification": "Billing code '99070UU' contains unseparated modifier or multiplier. CMS mandates modifiers be reported in distinct modifier columns or delimited from the base 5-digit CPT/HCPCS code."
+                },
+                {
+                    "row": 48,
+                    "code": "0232T",
+                    "type": "Missing Code Type",
+                    "detail": "Njx platelet plasma",
+                    "justification": "Billing code '0232T' is listed but its billing_code_type is missing or empty."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Missing Standard Charges",
+                    "detail": "MRF missing required CMS standard charge types",
+                    "justification": "CMS requires 5 standard charges. Missing 4/5: Discounted Cash Price, Payer-Specific Negotiated Rate, De-identified Minimum Rate, De-identified Maximum Rate. Found: Gross Charge."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '800458999_OSS-Orthopaedic-Hospital-LLC_standard-charges-1.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - OSS Health",
+            "generated_at": "2026-11-01T06:29:10.752740+00:00"
+        },
+        {
+            "id": "pennsylvania-penn_highlands_brookville",
+            "name": "Penn Highlands Brookville",
+            "state": "Pennsylvania",
+            "folder_name": "Penn_Highlands_Brookville",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Penn_Highlands_Brookville_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/Penn_Highlands_Brookville/Penn_Highlands_Brookville_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Penn_Highlands_Brookville/Penn_Highlands_Brookville_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Penn_Highlands_Brookville/Penn_Highlands_Brookville_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Penn Highlands Brookville",
+            "generated_at": "2026-11-01T06:26:29.377323+00:00"
+        },
+        {
             "id": "pennsylvania-penn_highlands_tyrone",
             "name": "Penn Highlands Tyrone",
             "state": "Pennsylvania",
@@ -3301,6 +4211,128 @@
             "generated_at": "2026-10-30T07:03:03.829313+00:00"
         },
         {
+            "id": "pennsylvania-physicians_care_surgical_hospital",
+            "name": "Physicians Care Surgical Hospital",
+            "state": "Pennsylvania",
+            "folder_name": "Physicians_Care_Surgical_Hospital",
+            "scanned_rows": 10234,
+            "violations_count": 20475,
+            "safety_score": 29.08,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Physicians_Care_Surgical_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/Physicians_Care_Surgical_Hospital/Physicians_Care_Surgical_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Physicians_Care_Surgical_Hospital/Physicians_Care_Surgical_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Physicians_Care_Surgical_Hospital/Physicians_Care_Surgical_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 3,
+                    "code": "82652",
+                    "type": "Missing Code Type",
+                    "detail": "1 25 DIHYDROXY INCLUDES FRACTIONS IF PERFORMED (82652)",
+                    "justification": "Billing code '82652' is listed but its billing_code_type is missing or empty."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Missing Hospital Identifier",
+                    "detail": "MRF missing required hospital identification",
+                    "justification": "CMS requires hospital identification in MRF under 45 CFR \u00a7 180.50(b)(2)(i). Missing: Hospital Name, Hospital Location/Address. Found: Hospital EIN/Tax ID."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '261239962_Physicians Care Surgical Hospital_standardcharges.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                },
+                {
+                    "row": 4,
+                    "code": "54328",
+                    "type": "Invalid Clinical Setting",
+                    "detail": "Setting value 'Facility Fee' is not a valid CMS enum",
+                    "justification": "Invalid setting value 'Facility Fee'. CMS requires exactly one of: 'inpatient', 'outpatient', 'both'. Values like 'IP', 'OP', 'clinic', 'Inpt', 'Outpt' are not accepted. Ref: 45 CFR \u00a7 180.50(b)(2)(iii) & \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2."
+                },
+                {
+                    "row": 6,
+                    "code": "54332",
+                    "type": "Missing Code Type",
+                    "detail": "1 STAGE PROX PENILE/PENOSCROTAL HYPOSPADIAS RPR (54332)",
+                    "justification": "Billing code '54332' is listed but its billing_code_type is missing or empty."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Physicians Care Surgical Hospital",
+            "generated_at": "2026-11-01T06:29:00.959068+00:00"
+        },
+        {
+            "id": "pennsylvania-rothman_orthopaedic_specialty_hospital",
+            "name": "Rothman Orthopaedic Specialty Hospital",
+            "state": "Pennsylvania",
+            "folder_name": "Rothman_Orthopaedic_Specialty_Hospital",
+            "scanned_rows": 1461,
+            "violations_count": 3318,
+            "safety_score": 22.88,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Rothman_Orthopaedic_Specialty_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/Rothman_Orthopaedic_Specialty_Hospital/Rothman_Orthopaedic_Specialty_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Rothman_Orthopaedic_Specialty_Hospital/Rothman_Orthopaedic_Specialty_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Rothman_Orthopaedic_Specialty_Hospital/Rothman_Orthopaedic_Specialty_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 318,
+                    "code": "22855",
+                    "type": "Compliance Failure",
+                    "detail": "CERVICAL SPINAL FUSION W MCC (22855)",
+                    "justification": "Price listed as $0.00. CMS requires actual established standard charges under 45 CFR \u00a7 180.50."
+                },
+                {
+                    "row": 3,
+                    "code": "27120",
+                    "type": "Missing Code Type",
+                    "detail": "ACETABULOPLASTY;(EGWHITMAN (27120)",
+                    "justification": "Billing code '27120' is listed but its billing_code_type is missing or empty."
+                },
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Missing Hospital Identifier",
+                    "detail": "MRF missing required hospital identification",
+                    "justification": "CMS requires hospital identification in MRF under 45 CFR \u00a7 180.50(b)(2)(i). Missing: Hospital Name, Hospital Location/Address. Found: Hospital EIN/Tax ID."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '270260289_Rothman Orthopaedic Specialty Hospital_standardcharges.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                },
+                {
+                    "row": 4,
+                    "code": "23130",
+                    "type": "Invalid Clinical Setting",
+                    "detail": "Setting value 'Facility Fee' is not a valid CMS enum",
+                    "justification": "Invalid setting value 'Facility Fee'. CMS requires exactly one of: 'inpatient', 'outpatient', 'both'. Values like 'IP', 'OP', 'clinic', 'Inpt', 'Outpt' are not accepted. Ref: 45 CFR \u00a7 180.50(b)(2)(iii) & \u00a7 180.50(c)(2) & CMS Data Dictionary v3.0 Table 2."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Rothman Orthopaedic Specialty Hospital",
+            "generated_at": "2026-11-01T06:23:24.887412+00:00"
+        },
+        {
             "id": "pennsylvania-saint_vincent_hospital",
             "name": "Saint Vincent Hospital",
             "state": "Pennsylvania",
@@ -3332,6 +4364,133 @@
             ],
             "reference_id": "[MRF Remediation Workpapers] - Saint Vincent Hospital",
             "generated_at": "2026-10-30T07:01:06.490814+00:00"
+        },
+        {
+            "id": "pennsylvania-the_horsham_clinic",
+            "name": "The Horsham Clinic",
+            "state": "Pennsylvania",
+            "folder_name": "The_Horsham_Clinic",
+            "scanned_rows": 56,
+            "violations_count": 57,
+            "safety_score": 54.23,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT: DEFECTS DETECTED",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "The_Horsham_Clinic_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/The_Horsham_Clinic/The_Horsham_Clinic_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/The_Horsham_Clinic/The_Horsham_Clinic_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/The_Horsham_Clinic/The_Horsham_Clinic_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "FILE_LEVEL",
+                    "type": "Schema Error",
+                    "detail": "Invalid File Structure",
+                    "justification": "Missing critical columns: description. File cannot be audited."
+                },
+                {
+                    "row": 6,
+                    "code": "0",
+                    "type": "Compliance Failure",
+                    "detail": "Clinical Procedure",
+                    "justification": "Price listed as $0.00. CMS requires actual established standard charges under 45 CFR \u00a7 180.50."
+                },
+                {
+                    "row": 7,
+                    "code": "0124",
+                    "type": "Invalid Methodology",
+                    "detail": "Clinical Procedure",
+                    "justification": "Invalid methodology '% of Medicare PPS'. Must be: case rate, fee schedule, percent of total billed charges, per diem, or other."
+                },
+                {
+                    "row": -1,
+                    "code": "N/A",
+                    "type": "Compliance",
+                    "detail": "Invalid CMS Naming Convention",
+                    "justification": "Filename '232842434-horsham-standard_charges.csv' does not follow CMS mandatory naming syntax (<EIN>_<hospital-name>_standardcharges.[csv|json]) per 45 CFR \u00a7 180.50(d)(5). Dynamic endpoint exports omitting Content-Disposition headers represent a procedural server configuration defect under 45 CFR \u00a7 180.50(d)(5)."
+                },
+                {
+                    "row": 28,
+                    "code": "0",
+                    "type": "Compliance Failure",
+                    "detail": "Clinical Procedure",
+                    "justification": "Price listed as $0.00. CMS requires actual established standard charges under 45 CFR \u00a7 180.50."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - The Horsham Clinic",
+            "generated_at": "2026-11-01T06:26:30.254903+00:00"
+        },
+        {
+            "id": "pennsylvania-warren_general_hospital",
+            "name": "Warren General Hospital",
+            "state": "Pennsylvania",
+            "folder_name": "Warren_General_Hospital",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "Warren_General_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/Warren_General_Hospital/Warren_General_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Warren_General_Hospital/Warren_General_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Warren_General_Hospital/Warren_General_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - Warren General Hospital",
+            "generated_at": "2026-11-01T06:25:51.591584+00:00"
+        },
+        {
+            "id": "pennsylvania-west_penn_hospital",
+            "name": "West Penn Hospital",
+            "state": "Pennsylvania",
+            "folder_name": "West_Penn_Hospital",
+            "scanned_rows": 0,
+            "violations_count": 1,
+            "safety_score": 0.0,
+            "safety_grade": "F",
+            "status": "NON_COMPLIANT",
+            "status_badge": "NON-COMPLIANT SCHEMA: FATAL CMS SCHEMA DEFECT",
+            "bot_blocking_detected": false,
+            "stealth_bypassed": false,
+            "barrier_type": null,
+            "detected_at": null,
+            "statutory_violation": null,
+            "obstruction_details": null,
+            "pdf_filename": "West_Penn_Hospital_Public_Audit_Report.pdf",
+            "pdf_relative_path": "Pennsylvania/West_Penn_Hospital/West_Penn_Hospital_Public_Audit_Report.pdf",
+            "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/West_Penn_Hospital/West_Penn_Hospital_Public_Audit_Report.pdf",
+            "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/West_Penn_Hospital/West_Penn_Hospital_Public_Audit_Report.pdf",
+            "sample_defects": [
+                {
+                    "row": 0,
+                    "code": "N/A",
+                    "type": "Fatal Schema Error (Non-Readable File)",
+                    "detail": "Machine-readable file contains 0 parseable chargemaster records or failed to load due to fatal ETL corruption.",
+                    "justification": "Under 45 CFR \u00a7 180.50, hospitals must publish standard charges in a single digitally accessible, machine-readable format. Publishing an unparseable or empty file constitutes statutory non-compliance."
+                }
+            ],
+            "reference_id": "[MRF Remediation Workpapers] - West Penn Hospital",
+            "generated_at": "2026-11-01T06:25:50.051453+00:00"
         },
         {
             "id": "pennsylvania-wexford_hospital",
