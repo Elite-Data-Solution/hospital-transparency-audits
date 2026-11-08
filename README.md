@@ -1,7 +1,7 @@
 # Elite Data Solution - Hospital Price Transparency Public Diagnostic Index
 
 **Governing Federal Standard:** CMS Hospital Price Transparency Mandate (45 CFR Part 180)  
-**Last Index Compilation:** `2026-11-01T06:29:12.406998+00:00`  
+**Last Index Compilation:** `2026-11-07T10:14:00.624579+00:00`  
 **Independent Workpaper Custody:** Elite Data Solution (`audit@elitedatasolution.net`)  
 **Advisory Portal:** [https://elitedatasolution.net](https://elitedatasolution.net)
 
@@ -11,12 +11,12 @@
 
 | Regulatory Inspection Metric | Aggregate Volume | Statutory Audit Context |
 | :--- | :--- | :--- |
-| **Total Facilities Audited** | **100** | Total hospital Machine-Readable File (MRF) endpoints ingested |
+| **Total Facilities Audited** | **150** | Total hospital Machine-Readable File (MRF) endpoints ingested |
 | **100% Compliant Facilities** | **0** | Standard charge files verifying 100% data completeness with zero detected defects |
-| **Non-Compliant Facilities** | **100** | Files exhibiting structural syntax, schema, pricing, or CMS rule non-compliance |
+| **Non-Compliant Facilities** | **150** | Files exhibiting structural syntax, schema, pricing, or CMS rule non-compliance |
 | **Statutorily Obstructed Facilities** | **0** | Facilities deploying automated bot blockers / WAF walls in violation of 45 CFR § 180.50 |
-| **Total Chargemaster Rows Scanned** | **3,477,673** | Total individual standard charge records algorithmically inspected |
-| **Total Compliance Defects Cataloged** | **4,265,886** | Total statutory infractions isolated and documented across workpapers |
+| **Total Chargemaster Rows Scanned** | **4,353,145** | Total individual standard charge records algorithmically inspected |
+| **Total Compliance Defects Cataloged** | **4,297,215** | Total statutory infractions isolated and documented across workpapers |
 
 ---
 
@@ -34,13 +34,18 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **Children's Hospital Of Alabama** | Alabama | 98.8% | **A+** | 5,653 | 48 | [Children's Hospital Of Alabama Diagnostic Report](Alabama/Childrens_Hospital_Of_Alabama/Childrens_Hospital_Of_Alabama_Public_Audit_Report.pdf) |
 | **Community Hospital Inc** | Alabama | 52.7% | **F** | 4,514 | 3,076 | [Community Hospital Inc Diagnostic Report](Alabama/Community_Hospital_Inc/Community_Hospital_Inc_Public_Audit_Report.pdf) |
 | **D W Mcmillan Memorial Hospital** | Alabama | 0.0% | **F** | 0 | 1 | [D W Mcmillan Memorial Hospital Diagnostic Report](Alabama/D_W_Mcmillan_Memorial_Hospital/D_W_Mcmillan_Memorial_Hospital_Public_Audit_Report.pdf) |
+| **Eamc - Lanier** | Alabama | 0.0% | **F** | 0 | 1 | [Eamc - Lanier Diagnostic Report](Alabama/Eamc_-_Lanier/Eamc_-_Lanier_Public_Audit_Report.pdf) |
 | **East Alabama Medical Center** | Alabama | 0.0% | **F** | 0 | 1 | [East Alabama Medical Center Diagnostic Report](Alabama/East_Alabama_Medical_Center/East_Alabama_Medical_Center_Public_Audit_Report.pdf) |
 | **Hill Crest Behavioral Health Services** | Alabama | 23.6% | **F** | 5 | 13 | [Hill Crest Behavioral Health Services Diagnostic Report](Alabama/Hill_Crest_Behavioral_Health_Services/Hill_Crest_Behavioral_Health_Services_Public_Audit_Report.pdf) |
 | **Jackson Medical Center** | Alabama | 68.9% | **D** | 3,841 | 1,349 | [Jackson Medical Center Diagnostic Report](Alabama/Jackson_Medical_Center/Jackson_Medical_Center_Public_Audit_Report.pdf) |
 | **Laurel Oaks Behavioral Health Center** | Alabama | 25.3% | **F** | 4 | 11 | [Laurel Oaks Behavioral Health Center Diagnostic Report](Alabama/Laurel_Oaks_Behavioral_Health_Center/Laurel_Oaks_Behavioral_Health_Center_Public_Audit_Report.pdf) |
 | **Lawrence Medical Center** | Alabama | 0.0% | **F** | 0 | 1 | [Lawrence Medical Center Diagnostic Report](Alabama/Lawrence_Medical_Center/Lawrence_Medical_Center_Public_Audit_Report.pdf) |
+| **Noland Hospital Anniston Ii, Llc** | Alabama | 0.0% | **F** | 0 | 1 | [Noland Hospital Anniston Ii, Llc Diagnostic Report](Alabama/Noland_Hospital_Anniston_Ii_Llc/Noland_Hospital_Anniston_Ii_Llc_Public_Audit_Report.pdf) |
 | **Noland Hospital Birmingham Ii, Llc** | Alabama | 0.0% | **F** | 0 | 1 | [Noland Hospital Birmingham Ii, Llc Diagnostic Report](Alabama/Noland_Hospital_Birmingham_Ii_Llc/Noland_Hospital_Birmingham_Ii_Llc_Public_Audit_Report.pdf) |
+| **Noland Hospital Dothan Ii, Llc** | Alabama | 0.0% | **F** | 0 | 1 | [Noland Hospital Dothan Ii, Llc Diagnostic Report](Alabama/Noland_Hospital_Dothan_Ii_Llc/Noland_Hospital_Dothan_Ii_Llc_Public_Audit_Report.pdf) |
 | **Noland Hospital Montgomery Ii, Llc** | Alabama | 0.0% | **F** | 0 | 1 | [Noland Hospital Montgomery Ii, Llc Diagnostic Report](Alabama/Noland_Hospital_Montgomery_Ii_Llc/Noland_Hospital_Montgomery_Ii_Llc_Public_Audit_Report.pdf) |
+| **Noland Hospital Tuscaloosa Ii, Llc** | Alabama | 0.0% | **F** | 0 | 1 | [Noland Hospital Tuscaloosa Ii, Llc Diagnostic Report](Alabama/Noland_Hospital_Tuscaloosa_Ii_Llc/Noland_Hospital_Tuscaloosa_Ii_Llc_Public_Audit_Report.pdf) |
+| **Russellville Hospital** | Alabama | 0.0% | **F** | 0 | 1 | [Russellville Hospital Diagnostic Report](Alabama/Russellville_Hospital/Russellville_Hospital_Public_Audit_Report.pdf) |
 | **Springhill Memorial Hospital** | Alabama | 0.0% | **F** | 0 | 1 | [Springhill Memorial Hospital Diagnostic Report](Alabama/Springhill_Memorial_Hospital/Springhill_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Tanner Medical Center-east Alabama** | Alabama | 53.0% | **F** | 6,255 | 7,147 | [Tanner Medical Center-east Alabama Diagnostic Report](Alabama/Tanner_Medical_Center-east_Alabama/Tanner_Medical_Center-east_Alabama_Public_Audit_Report.pdf) |
 | **Troy Regional Medical Center** | Alabama | 0.0% | **F** | 0 | 1 | [Troy Regional Medical Center Diagnostic Report](Alabama/Troy_Regional_Medical_Center/Troy_Regional_Medical_Center_Public_Audit_Report.pdf) |
@@ -48,8 +53,13 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **Alaska Regional Hospital** | Alaska | 59.0% | **F** | 98,061 | 94,129 | [Alaska Regional Hospital Diagnostic Report](Alaska/Alaska_Regional_Hospital/Alaska_Regional_Hospital_Public_Audit_Report.pdf) |
 | **Bartlett Regional Hospital** | Alaska | 97.8% | **A+** | 9,193 | 171 | [Bartlett Regional Hospital Diagnostic Report](Alaska/Bartlett_Regional_Hospital/Bartlett_Regional_Hospital_Public_Audit_Report.pdf) |
 | **Fairbanks Memorial Hospital** | Alaska | 98.0% | **A+** | 135,179 | 2,539 | [Fairbanks Memorial Hospital Diagnostic Report](Alaska/Fairbanks_Memorial_Hospital/Fairbanks_Memorial_Hospital_Public_Audit_Report.pdf) |
+| **Kanakanak Hospital** | Alaska | 96.2% | **A** | 11,785 | 524 | [Kanakanak Hospital Diagnostic Report](Alaska/Kanakanak_Hospital/Kanakanak_Hospital_Public_Audit_Report.pdf) |
+| **Petersburg Medical Center** | Alaska | 98.0% | **A+** | 4,617 | 102 | [Petersburg Medical Center Diagnostic Report](Alaska/Petersburg_Medical_Center/Petersburg_Medical_Center_Public_Audit_Report.pdf) |
 | **Providence Seward Medical Center** | Alaska | 0.0% | **F** | 0 | 1 | [Providence Seward Medical Center Diagnostic Report](Alaska/Providence_Seward_Medical_Center/Providence_Seward_Medical_Center_Public_Audit_Report.pdf) |
+| **Searhc Wrangell Medical Center-cah** | Alaska | 87.9% | **B+** | 96,238 | 11,798 | [Searhc Wrangell Medical Center-cah Diagnostic Report](Alaska/Searhc_Wrangell_Medical_Center-cah/Searhc_Wrangell_Medical_Center-cah_Public_Audit_Report.pdf) |
+| **South Peninsula Hospital** | Alaska | 97.5% | **A+** | 73,708 | 1,769 | [South Peninsula Hospital Diagnostic Report](Alaska/South_Peninsula_Hospital/South_Peninsula_Hospital_Public_Audit_Report.pdf) |
 | **St Elias Specialty Hospital** | Alaska | 0.0% | **F** | 0 | 1 | [St Elias Specialty Hospital Diagnostic Report](Alaska/St_Elias_Specialty_Hospital/St_Elias_Specialty_Hospital_Public_Audit_Report.pdf) |
+| **Yukon Kuskokwim Delta Reg Hospital** | Alaska | 96.8% | **A** | 26,683 | 714 | [Yukon Kuskokwim Delta Reg Hospital Diagnostic Report](Alaska/Yukon_Kuskokwim_Delta_Reg_Hospital/Yukon_Kuskokwim_Delta_Reg_Hospital_Public_Audit_Report.pdf) |
 | **Aurora Behavioral Health System** | Arizona | 53.9% | **F** | 30 | 29 | [Aurora Behavioral Health System Diagnostic Report](Arizona/Aurora_Behavioral_Health_System/Aurora_Behavioral_Health_System_Public_Audit_Report.pdf) |
 | **Copper Queen Community Hospital** | Arizona | 92.5% | **A-** | 77,845 | 6,472 | [Copper Queen Community Hospital Diagnostic Report](Arizona/Copper_Queen_Community_Hospital/Copper_Queen_Community_Hospital_Public_Audit_Report.pdf) |
 | **Honor Health Deer Valley Medical Center** | Arizona | 97.9% | **A+** | 312,795 | 5,898 | [Honor Health Deer Valley Medical Center Diagnostic Report](Arizona/Honor_Health_Deer_Valley_Medical_Center/Honor_Health_Deer_Valley_Medical_Center_Public_Audit_Report.pdf) |
@@ -73,28 +83,60 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **Bradley County Medical Center** | Arkansas | 0.0% | **F** | 0 | 1 | [Bradley County Medical Center Diagnostic Report](Arkansas/Bradley_County_Medical_Center/Bradley_County_Medical_Center_Public_Audit_Report.pdf) |
 | **Forrest City Medical Center** | Arkansas | 44.1% | **F** | 3,339 | 3,555 | [Forrest City Medical Center Diagnostic Report](Arkansas/Forrest_City_Medical_Center/Forrest_City_Medical_Center_Public_Audit_Report.pdf) |
 | **Fulton County Hospital** | Arkansas | 0.0% | **F** | 0 | 1 | [Fulton County Hospital Diagnostic Report](Arkansas/Fulton_County_Hospital/Fulton_County_Hospital_Public_Audit_Report.pdf) |
+| **Mcgehee Hospital** | Arkansas | 0.0% | **F** | 0 | 1 | [Mcgehee Hospital Diagnostic Report](Arkansas/Mcgehee_Hospital/Mcgehee_Hospital_Public_Audit_Report.pdf) |
 | **Mercy Rehabilitation Hospital** | Arkansas | 98.8% | **A+** | 125,544 | 5,258 | [Mercy Rehabilitation Hospital Diagnostic Report](Arkansas/Mercy_Rehabilitation_Hospital/Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf) |
 | **Ouachita County Medical Center** | Arkansas | 0.0% | **F** | 0 | 1 | [Ouachita County Medical Center Diagnostic Report](Arkansas/Ouachita_County_Medical_Center/Ouachita_County_Medical_Center_Public_Audit_Report.pdf) |
+| **Ozark Health** | Arkansas | 0.0% | **F** | 0 | 1 | [Ozark Health Diagnostic Report](Arkansas/Ozark_Health/Ozark_Health_Public_Audit_Report.pdf) |
 | **Ozark Health Inc** | Arkansas | 92.6% | **A-** | 6,645 | 2,171 | [Ozark Health Inc Diagnostic Report](Arkansas/Ozark_Health_Inc/Ozark_Health_Inc_Public_Audit_Report.pdf) |
+| **Washington Regional Medical Center** | Arkansas | 0.0% | **F** | 0 | 1 | [Washington Regional Medical Center Diagnostic Report](Arkansas/Washington_Regional_Medical_Center/Washington_Regional_Medical_Center_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Anaheim** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Anaheim Diagnostic Report](California/Kaiser_Foundation_Hospital_Anaheim/Kaiser_Foundation_Hospital_Anaheim_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital And Rehab Center** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital And Rehab Center Diagnostic Report](California/Kaiser_Foundation_Hospital_And_Rehab_Center/Kaiser_Foundation_Hospital_And_Rehab_Center_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital Baldwin Park** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Baldwin Park Diagnostic Report](California/Kaiser_Foundation_Hospital_Baldwin_Park/Kaiser_Foundation_Hospital_Baldwin_Park_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital Downey** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Downey Diagnostic Report](California/Kaiser_Foundation_Hospital_Downey/Kaiser_Foundation_Hospital_Downey_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital Fontana** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Fontana Diagnostic Report](California/Kaiser_Foundation_Hospital_Fontana/Kaiser_Foundation_Hospital_Fontana_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital Los Angeles** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Los Angeles Diagnostic Report](California/Kaiser_Foundation_Hospital_Los_Angeles/Kaiser_Foundation_Hospital_Los_Angeles_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital Oakland Richmond** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Oakland Richmond Diagnostic Report](California/Kaiser_Foundation_Hospital_Oakland_Richmond/Kaiser_Foundation_Hospital_Oakland_Richmond_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Redwood City** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Redwood City Diagnostic Report](California/Kaiser_Foundation_Hospital_Redwood_City/Kaiser_Foundation_Hospital_Redwood_City_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Roseville** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Roseville Diagnostic Report](California/Kaiser_Foundation_Hospital_Roseville/Kaiser_Foundation_Hospital_Roseville_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Sacramento** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Sacramento Diagnostic Report](California/Kaiser_Foundation_Hospital_Sacramento/Kaiser_Foundation_Hospital_Sacramento_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital San Diego** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital San Diego Diagnostic Report](California/Kaiser_Foundation_Hospital_San_Diego/Kaiser_Foundation_Hospital_San_Diego_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital San Francisco** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital San Francisco Diagnostic Report](California/Kaiser_Foundation_Hospital_San_Francisco/Kaiser_Foundation_Hospital_San_Francisco_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital San Jose** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital San Jose Diagnostic Report](California/Kaiser_Foundation_Hospital_San_Jose/Kaiser_Foundation_Hospital_San_Jose_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Santa Clara** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Santa Clara Diagnostic Report](California/Kaiser_Foundation_Hospital_Santa_Clara/Kaiser_Foundation_Hospital_Santa_Clara_Public_Audit_Report.pdf) |
 | **Kaiser Foundation Hospital South San Francisco** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital South San Francisco Diagnostic Report](California/Kaiser_Foundation_Hospital_South_San_Francisco/Kaiser_Foundation_Hospital_South_San_Francisco_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Walnut Creek** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Walnut Creek Diagnostic Report](California/Kaiser_Foundation_Hospital_Walnut_Creek/Kaiser_Foundation_Hospital_Walnut_Creek_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital West Los Angeles** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital West Los Angeles Diagnostic Report](California/Kaiser_Foundation_Hospital_West_Los_Angeles/Kaiser_Foundation_Hospital_West_Los_Angeles_Public_Audit_Report.pdf) |
+| **Kaiser Foundation Hospital Woodland Hills** | California | 0.0% | **F** | 0 | 1 | [Kaiser Foundation Hospital Woodland Hills Diagnostic Report](California/Kaiser_Foundation_Hospital_Woodland_Hills/Kaiser_Foundation_Hospital_Woodland_Hills_Public_Audit_Report.pdf) |
+| **Kaiser Permanente Antioch Medical Center** | California | 98.2% | **A+** | 328,536 | 6,022 | [Kaiser Permanente Antioch Medical Center Diagnostic Report](California/Kaiser_Permanente_Antioch_Medical_Center/Kaiser_Permanente_Antioch_Medical_Center_Public_Audit_Report.pdf) |
+| **Kaiser Permanente Fremont Medical Center** | California | 98.2% | **A+** | 328,536 | 6,022 | [Kaiser Permanente Fremont Medical Center Diagnostic Report](California/Kaiser_Permanente_Fremont_Medical_Center/Kaiser_Permanente_Fremont_Medical_Center_Public_Audit_Report.pdf) |
+| **Nemours Children's Hospital** | Delaware | 0.0% | **F** | 0 | 1 | [Nemours Children's Hospital Diagnostic Report](Delaware/Nemours_Childrens_Hospital/Nemours_Childrens_Hospital_Public_Audit_Report.pdf) |
+| **MedStar Georgetown University Hospital** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar Georgetown University Hospital Diagnostic Report](District of Columbia/MedStar_Georgetown_University_Hospital/MedStar_Georgetown_University_Hospital_Public_Audit_Report.pdf) |
+| **MedStar National Rehabilitation Hospital** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar National Rehabilitation Hospital Diagnostic Report](District of Columbia/MedStar_National_Rehabilitation_Hospital/MedStar_National_Rehabilitation_Hospital_Public_Audit_Report.pdf) |
+| **MedStar Washington Hospital Center** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar Washington Hospital Center Diagnostic Report](District of Columbia/MedStar_Washington_Hospital_Center/MedStar_Washington_Hospital_Center_Public_Audit_Report.pdf) |
 | **Guttenberg Municipal Hospital** | Iowa | 98.6% | **A+** | 6,123 | 146 | [Guttenberg Municipal Hospital Diagnostic Report](Iowa/Guttenberg_Municipal_Hospital/Guttenberg_Municipal_Hospital_Public_Audit_Report.pdf) |
 | **Howard County General Hospital** | Maryland | 84.7% | **B** | 13,376 | 2,119 | [Howard County General Hospital Diagnostic Report](Maryland/Howard_County_General_Hospital/Howard_County_General_Hospital_Public_Audit_Report.pdf) |
 | **Johns Hopkins Bayview Medical Center** | Maryland | 73.4% | **C** | 15,434 | 4,451 | [Johns Hopkins Bayview Medical Center Diagnostic Report](Maryland/Johns_Hopkins_Bayview_Medical_Center/Johns_Hopkins_Bayview_Medical_Center_Public_Audit_Report.pdf) |
+| **MedStar Franklin Square Medical Center** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Franklin Square Medical Center Diagnostic Report](Maryland/MedStar_Franklin_Square_Medical_Center/MedStar_Franklin_Square_Medical_Center_Public_Audit_Report.pdf) |
+| **MedStar Good Samaritan Hospital** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Good Samaritan Hospital Diagnostic Report](Maryland/MedStar_Good_Samaritan_Hospital/MedStar_Good_Samaritan_Hospital_Public_Audit_Report.pdf) |
+| **MedStar Harbor Hospital** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Harbor Hospital Diagnostic Report](Maryland/MedStar_Harbor_Hospital/MedStar_Harbor_Hospital_Public_Audit_Report.pdf) |
+| **MedStar Montgomery Medical Center** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Montgomery Medical Center Diagnostic Report](Maryland/MedStar_Montgomery_Medical_Center/MedStar_Montgomery_Medical_Center_Public_Audit_Report.pdf) |
+| **MedStar Southern Maryland Hospital Center** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Southern Maryland Hospital Center Diagnostic Report](Maryland/MedStar_Southern_Maryland_Hospital_Center/MedStar_Southern_Maryland_Hospital_Center_Public_Audit_Report.pdf) |
+| **MedStar St. Mary's Hospital** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar St. Mary's Hospital Diagnostic Report](Maryland/MedStar_St_Marys_Hospital/MedStar_St_Marys_Hospital_Public_Audit_Report.pdf) |
+| **Sheppard and Enoch Pratt Hospital** | Maryland | 0.0% | **F** | 0 | 1 | [Sheppard and Enoch Pratt Hospital Diagnostic Report](Maryland/Sheppard_and_Enoch_Pratt_Hospital/Sheppard_and_Enoch_Pratt_Hospital_Public_Audit_Report.pdf) |
 | **Suburban Hospital** | Maryland | 90.3% | **A-** | 13,837 | 1,486 | [Suburban Hospital Diagnostic Report](Maryland/Suburban_Hospital/Suburban_Hospital_Public_Audit_Report.pdf) |
 | **The Johns Hopkins Hospital** | Maryland | 84.2% | **B** | 31,222 | 5,281 | [The Johns Hopkins Hospital Diagnostic Report](Maryland/The_Johns_Hopkins_Hospital/The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf) |
+| **TidalHealth Nanticoke** | Maryland | 0.0% | **F** | 0 | 1 | [TidalHealth Nanticoke Diagnostic Report](Maryland/TidalHealth_Nanticoke/TidalHealth_Nanticoke_Public_Audit_Report.pdf) |
+| **TidalHealth Peninsula Regional** | Maryland | 0.0% | **F** | 0 | 1 | [TidalHealth Peninsula Regional Diagnostic Report](Maryland/TidalHealth_Peninsula_Regional/TidalHealth_Peninsula_Regional_Public_Audit_Report.pdf) |
 | **Inspira Medical Center Elmer** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical Center Elmer Diagnostic Report](New Jersey/Inspira_Medical_Center_Elmer/Inspira_Medical_Center_Elmer_Public_Audit_Report.pdf) |
 | **Inspira Medical center Vineland** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical center Vineland Diagnostic Report](New Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf) |
 | **Inspira Medical Center Woodbury** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical Center Woodbury Diagnostic Report](New Jersey/Inspira_Medical_Center_Woodbury/Inspira_Medical_Center_Woodbury_Public_Audit_Report.pdf) |
 | **Brooke Glen Behavioral Hospital** | New York | 99.0% | **A+** | 561 | 5 | [Brooke Glen Behavioral Hospital Diagnostic Report](New York/Brooke_Glen_Behavioral_Hospital/Brooke_Glen_Behavioral_Hospital_Public_Audit_Report.pdf) |
+| **Westfield Memorial Hospital** | New York | 0.0% | **F** | 0 | 1 | [Westfield Memorial Hospital Diagnostic Report](New York/Westfield_Memorial_Hospital/Westfield_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Pioneer Memorial Hospital** | Oregon | 90.8% | **A-** | 77,044 | 8,290 | [Pioneer Memorial Hospital Diagnostic Report](Oregon/Pioneer_Memorial_Hospital/Pioneer_Memorial_Hospital_Public_Audit_Report.pdf) |
+| **AHN Grove City** | Pennsylvania | 0.0% | **F** | 0 | 1 | [AHN Grove City Diagnostic Report](Pennsylvania/AHN_Grove_City/AHN_Grove_City_Public_Audit_Report.pdf) |
 | **Albert Einstein Medical Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Albert Einstein Medical Center Diagnostic Report](Pennsylvania/Albert_Einstein_Medical_Center/Albert_Einstein_Medical_Center_Public_Audit_Report.pdf) |
+| **Allegheny General Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Allegheny General Hospital Diagnostic Report](Pennsylvania/Allegheny_General_Hospital/Allegheny_General_Hospital_Public_Audit_Report.pdf) |
+| **Allegheny Valley Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Allegheny Valley Hospital Diagnostic Report](Pennsylvania/Allegheny_Valley_Hospital/Allegheny_Valley_Hospital_Public_Audit_Report.pdf) |
 | **Armstrong Center for Medicine and Health** | Pennsylvania | 84.6% | **B** | 6,693 | 943 | [Armstrong Center for Medicine and Health Diagnostic Report](Pennsylvania/Armstrong_Center_for_Medicine_and_Health/Armstrong_Center_for_Medicine_and_Health_Public_Audit_Report.pdf) |
 | **Belmont Behavioral Health System** | Pennsylvania | 59.0% | **F** | 58 | 33 | [Belmont Behavioral Health System Diagnostic Report](Pennsylvania/Belmont_Behavioral_Health_System/Belmont_Behavioral_Health_System_Public_Audit_Report.pdf) |
 | **Berwick Hospital Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Berwick Hospital Center Diagnostic Report](Pennsylvania/Berwick_Hospital_Center/Berwick_Hospital_Center_Public_Audit_Report.pdf) |
@@ -119,14 +161,22 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **OSS Health** | Pennsylvania | 48.9% | **F** | 5,645 | 5,904 | [OSS Health Diagnostic Report](Pennsylvania/OSS_Health/OSS_Health_Public_Audit_Report.pdf) |
 | **Penn Highlands Brookville** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Penn Highlands Brookville Diagnostic Report](Pennsylvania/Penn_Highlands_Brookville/Penn_Highlands_Brookville_Public_Audit_Report.pdf) |
 | **Penn Highlands Tyrone** | Pennsylvania | 37.7% | **F** | 12,925 | 42,361 | [Penn Highlands Tyrone Diagnostic Report](Pennsylvania/Penn_Highlands_Tyrone/Penn_Highlands_Tyrone_Public_Audit_Report.pdf) |
+| **Penn State Health Hershey Medical Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Penn State Health Hershey Medical Center Diagnostic Report](Pennsylvania/Penn_State_Health_Hershey_Medical_Center/Penn_State_Health_Hershey_Medical_Center_Public_Audit_Report.pdf) |
+| **Penn State Health Holy Spirit Medical Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Penn State Health Holy Spirit Medical Center Diagnostic Report](Pennsylvania/Penn_State_Health_Holy_Spirit_Medical_Center/Penn_State_Health_Holy_Spirit_Medical_Center_Public_Audit_Report.pdf) |
+| **Penn State Health St. Joseph Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Penn State Health St. Joseph Center Diagnostic Report](Pennsylvania/Penn_State_Health_St_Joseph_Center/Penn_State_Health_St_Joseph_Center_Public_Audit_Report.pdf) |
 | **Physicians Care Surgical Hospital** | Pennsylvania | 29.1% | **F** | 10,234 | 20,475 | [Physicians Care Surgical Hospital Diagnostic Report](Pennsylvania/Physicians_Care_Surgical_Hospital/Physicians_Care_Surgical_Hospital_Public_Audit_Report.pdf) |
+| **Punxsutawney Area Hospital** | Pennsylvania | 55.0% | **F** | 5,369 | 4,336 | [Punxsutawney Area Hospital Diagnostic Report](Pennsylvania/Punxsutawney_Area_Hospital/Punxsutawney_Area_Hospital_Public_Audit_Report.pdf) |
 | **Rothman Orthopaedic Specialty Hospital** | Pennsylvania | 22.9% | **F** | 1,461 | 3,318 | [Rothman Orthopaedic Specialty Hospital Diagnostic Report](Pennsylvania/Rothman_Orthopaedic_Specialty_Hospital/Rothman_Orthopaedic_Specialty_Hospital_Public_Audit_Report.pdf) |
 | **Saint Vincent Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Saint Vincent Hospital Diagnostic Report](Pennsylvania/Saint_Vincent_Hospital/Saint_Vincent_Hospital_Public_Audit_Report.pdf) |
+| **Temple University Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Temple University Hospital Diagnostic Report](Pennsylvania/Temple_University_Hospital/Temple_University_Hospital_Public_Audit_Report.pdf) |
 | **The Horsham Clinic** | Pennsylvania | 54.2% | **F** | 56 | 57 | [The Horsham Clinic Diagnostic Report](Pennsylvania/The_Horsham_Clinic/The_Horsham_Clinic_Public_Audit_Report.pdf) |
 | **Warren General Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Warren General Hospital Diagnostic Report](Pennsylvania/Warren_General_Hospital/Warren_General_Hospital_Public_Audit_Report.pdf) |
+| **Washington Health System** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Washington Health System Diagnostic Report](Pennsylvania/Washington_Health_System/Washington_Health_System_Public_Audit_Report.pdf) |
+| **Washington Health System Greene** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Washington Health System Greene Diagnostic Report](Pennsylvania/Washington_Health_System_Greene/Washington_Health_System_Greene_Public_Audit_Report.pdf) |
 | **West Penn Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [West Penn Hospital Diagnostic Report](Pennsylvania/West_Penn_Hospital/West_Penn_Hospital_Public_Audit_Report.pdf) |
 | **Wexford Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Wexford Hospital Diagnostic Report](Pennsylvania/Wexford_Hospital/Wexford_Hospital_Public_Audit_Report.pdf) |
 | **Wills Eye Hospital** | Pennsylvania | 59.0% | **F** | 594 | 606 | [Wills Eye Hospital Diagnostic Report](Pennsylvania/Wills_Eye_Hospital/Wills_Eye_Hospital_Public_Audit_Report.pdf) |
+| **Medical Behavioral Hospital Of Northern Arizona, L** | Texas | 0.0% | **F** | 0 | 1 | [Medical Behavioral Hospital Of Northern Arizona, L Diagnostic Report](Texas/Medical_Behavioral_Hospital_Of_Northern_Arizona_L/Medical_Behavioral_Hospital_Of_Northern_Arizona_L_Public_Audit_Report.pdf) |
 
 ---
 
