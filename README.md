@@ -3,9 +3,9 @@
 
 **Regulatory Auditor:** Sentinel Auditor (Sentinel Tayf 8000)  
 **National Milestone:** Mission to audit all 8,000 licensed US hospitals by the end of 2027  
-**Current Production Ingestion:** 192 Facilities across 24 States (4,792,650 Charge Records · 4,521,827 Statutory Defects)  
+**Current Production Ingestion:** 225 Facilities across 32 States (5,740,259 Charge Records · 6,088,983 Statutory Defects)  
 **Governing Federal Standard:** CMS Hospital Price Transparency Mandate (45 CFR Part 180)  
-**Last Index Compilation:** `2026-11-15T18:00:00.000000+00:00`  
+**Last Index Compilation:** `2026-11-18T15:34:48.817961+00:00`  
 **Independent Workpaper Custody:** Elite Data Solution (`audit@elitedatasolution.net`)  
 **Live Public Directory & Portal:** [https://www.elitedatasolution.net/hospital-price-transparency-index](https://www.elitedatasolution.net/hospital-price-transparency-index)
 
@@ -15,12 +15,12 @@
 
 | Regulatory Inspection Metric | Aggregate Volume | Statutory Audit Context |
 | :--- | :--- | :--- |
-| **Total Facilities Audited** | **192** | Total hospital Machine-Readable File (MRF) endpoints ingested |
+| **Total Facilities Audited** | **225** | Total hospital Machine-Readable File (MRF) endpoints ingested |
 | **100% Compliant Facilities** | **0** | Standard charge files verifying 100% data completeness with zero detected defects |
-| **Non-Compliant Facilities** | **192** | Files exhibiting structural syntax, schema, pricing, or CMS rule non-compliance |
+| **Non-Compliant Facilities** | **225** | Files exhibiting structural syntax, schema, pricing, or CMS rule non-compliance |
 | **Statutorily Obstructed Facilities** | **0** | Facilities deploying automated bot blockers / WAF walls in violation of 45 CFR § 180.50 |
-| **Total Chargemaster Rows Scanned** | **4,792,650** | Total individual standard charge records algorithmically inspected |
-| **Total Compliance Defects Cataloged** | **4,521,827** | Total statutory infractions isolated and documented across workpapers |
+| **Total Chargemaster Rows Scanned** | **5,740,259** | Total individual standard charge records algorithmically inspected |
+| **Total Compliance Defects Cataloged** | **6,088,983** | Total statutory infractions isolated and documented across workpapers |
 
 ---
 
@@ -92,7 +92,6 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **Mcgehee Hospital** | Arkansas | 0.0% | **F** | 0 | 1 | [Mcgehee Hospital Diagnostic Report](Arkansas/Mcgehee_Hospital/Mcgehee_Hospital_Public_Audit_Report.pdf) |
 | **Mercy Rehabilitation Hospital** | Arkansas | 98.8% | **A+** | 125,544 | 5,258 | [Mercy Rehabilitation Hospital Diagnostic Report](Arkansas/Mercy_Rehabilitation_Hospital/Mercy_Rehabilitation_Hospital_Public_Audit_Report.pdf) |
 | **Ouachita County Medical Center** | Arkansas | 0.0% | **F** | 0 | 1 | [Ouachita County Medical Center Diagnostic Report](Arkansas/Ouachita_County_Medical_Center/Ouachita_County_Medical_Center_Public_Audit_Report.pdf) |
-| **Ozark Health** | Arkansas | 0.0% | **F** | 0 | 1 | [Ozark Health Diagnostic Report](Arkansas/Ozark_Health/Ozark_Health_Public_Audit_Report.pdf) |
 | **Ozark Health Inc** | Arkansas | 92.6% | **A-** | 6,645 | 2,171 | [Ozark Health Inc Diagnostic Report](Arkansas/Ozark_Health_Inc/Ozark_Health_Inc_Public_Audit_Report.pdf) |
 | **Perimeter Behavioral Hospital Of West Memphis** | Arkansas | 0.0% | **F** | 0 | 1 | [Perimeter Behavioral Hospital Of West Memphis Diagnostic Report](Arkansas/Perimeter_Behavioral_Hospital_Of_West_Memphis/Perimeter_Behavioral_Hospital_Of_West_Memphis_Public_Audit_Report.pdf) |
 | **Vantage Point Of Northwest Arkansas** | Arkansas | 48.9% | **F** | 50 | 61 | [Vantage Point Of Northwest Arkansas Diagnostic Report](Arkansas/Vantage_Point_Of_Northwest_Arkansas/Vantage_Point_Of_Northwest_Arkansas_Public_Audit_Report.pdf) |
@@ -135,19 +134,34 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **West Covina Medical Center, Inc** | California | 0.0% | **F** | 0 | 1 | [West Covina Medical Center, Inc Diagnostic Report](California/West_Covina_Medical_Center_Inc/West_Covina_Medical_Center_Inc_Public_Audit_Report.pdf) |
 | **Animas Surgical Hospital, Llc** | Colorado | 36.2% | **F** | 35,847 | 46,138 | [Animas Surgical Hospital, Llc Diagnostic Report](Colorado/Animas_Surgical_Hospital_Llc/Animas_Surgical_Hospital_Llc_Public_Audit_Report.pdf) |
 | **Nemours Children's Hospital** | Delaware | 0.0% | **F** | 0 | 1 | [Nemours Children's Hospital Diagnostic Report](Delaware/Nemours_Childrens_Hospital/Nemours_Childrens_Hospital_Public_Audit_Report.pdf) |
+| **Bridgepoint -national Harbor** | District of Columbia | 56.4% | **F** | 9,715 | 10,579 | [Bridgepoint -national Harbor Diagnostic Report](District of Columbia/Bridgepoint_-national_Harbor/Bridgepoint_-national_Harbor_Public_Audit_Report.pdf) |
+| **Bridgepoint Hospital Capitol Hill** | District of Columbia | 56.4% | **F** | 9,734 | 10,597 | [Bridgepoint Hospital Capitol Hill Diagnostic Report](District of Columbia/Bridgepoint_Hospital_Capitol_Hill/Bridgepoint_Hospital_Capitol_Hill_Public_Audit_Report.pdf) |
 | **MedStar Georgetown University Hospital** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar Georgetown University Hospital Diagnostic Report](District of Columbia/MedStar_Georgetown_University_Hospital/MedStar_Georgetown_University_Hospital_Public_Audit_Report.pdf) |
 | **MedStar National Rehabilitation Hospital** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar National Rehabilitation Hospital Diagnostic Report](District of Columbia/MedStar_National_Rehabilitation_Hospital/MedStar_National_Rehabilitation_Hospital_Public_Audit_Report.pdf) |
 | **MedStar Washington Hospital Center** | District of Columbia | 0.0% | **F** | 0 | 1 | [MedStar Washington Hospital Center Diagnostic Report](District of Columbia/MedStar_Washington_Hospital_Center/MedStar_Washington_Hospital_Center_Public_Audit_Report.pdf) |
 | **Baptist Medical Center - Beaches** | Florida | 95.1% | **A** | 15,995 | 3,075 | [Baptist Medical Center - Beaches Diagnostic Report](Florida/Baptist_Medical_Center_-_Beaches/Baptist_Medical_Center_-_Beaches_Public_Audit_Report.pdf) |
 | **Baptist Medical Center - Nassau** | Florida | 95.0% | **A** | 12,150 | 2,376 | [Baptist Medical Center - Nassau Diagnostic Report](Florida/Baptist_Medical_Center_-_Nassau/Baptist_Medical_Center_-_Nassau_Public_Audit_Report.pdf) |
 | **Baptist Medical Center Jacksonville** | Florida | 95.1% | **A** | 25,900 | 5,063 | [Baptist Medical Center Jacksonville Diagnostic Report](Florida/Baptist_Medical_Center_Jacksonville/Baptist_Medical_Center_Jacksonville_Public_Audit_Report.pdf) |
+| **Calhoun-liberty Hospital** | Florida | 59.0% | **F** | 1,226 | 1,247 | [Calhoun-liberty Hospital Diagnostic Report](Florida/Calhoun-liberty_Hospital/Calhoun-liberty_Hospital_Public_Audit_Report.pdf) |
+| **Cleveland Clinic Hospital** | Florida | 0.0% | **F** | 0 | 1 | [Cleveland Clinic Hospital Diagnostic Report](Florida/Cleveland_Clinic_Hospital/Cleveland_Clinic_Hospital_Public_Audit_Report.pdf) |
+| **Ed Fraser Memorial Hospital** | Florida | 0.0% | **F** | 0 | 1 | [Ed Fraser Memorial Hospital Diagnostic Report](Florida/Ed_Fraser_Memorial_Hospital/Ed_Fraser_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Appling Hospital** | Georgia | 59.0% | **F** | 318 | 323 | [Appling Hospital Diagnostic Report](Georgia/Appling_Hospital/Appling_Hospital_Public_Audit_Report.pdf) |
+| **Candler County Hospital** | Georgia | 0.0% | **F** | 0 | 1 | [Candler County Hospital Diagnostic Report](Georgia/Candler_County_Hospital/Candler_County_Hospital_Public_Audit_Report.pdf) |
+| **Crisp Regional Hospital** | Georgia | 0.0% | **F** | 0 | 1 | [Crisp Regional Hospital Diagnostic Report](Georgia/Crisp_Regional_Hospital/Crisp_Regional_Hospital_Public_Audit_Report.pdf) |
+| **Eastern Idaho Regional Medical Center** | Idaho | 30.9% | **F** | 233,200 | 401,769 | [Eastern Idaho Regional Medical Center Diagnostic Report](Idaho/Eastern_Idaho_Regional_Medical_Center/Eastern_Idaho_Regional_Medical_Center_Public_Audit_Report.pdf) |
+| **Community First Medical Center** | Illinois | 0.0% | **F** | 0 | 1 | [Community First Medical Center Diagnostic Report](Illinois/Community_First_Medical_Center/Community_First_Medical_Center_Public_Audit_Report.pdf) |
+| **Buchanan County Health Center** | Iowa | 0.0% | **F** | 0 | 1 | [Buchanan County Health Center Diagnostic Report](Iowa/Buchanan_County_Health_Center/Buchanan_County_Health_Center_Public_Audit_Report.pdf) |
+| **Burgess Health Center** | Iowa | 59.0% | **F** | 1,410 | 1,412 | [Burgess Health Center Diagnostic Report](Iowa/Burgess_Health_Center/Burgess_Health_Center_Public_Audit_Report.pdf) |
 | **Guttenberg Municipal Hospital** | Iowa | 98.6% | **A+** | 6,123 | 146 | [Guttenberg Municipal Hospital Diagnostic Report](Iowa/Guttenberg_Municipal_Hospital/Guttenberg_Municipal_Hospital_Public_Audit_Report.pdf) |
 | **Arh Our Lady Of The Way** | Kentucky | 0.0% | **F** | 0 | 1 | [Arh Our Lady Of The Way Diagnostic Report](Kentucky/Arh_Our_Lady_Of_The_Way/Arh_Our_Lady_Of_The_Way_Public_Audit_Report.pdf) |
 | **Barbourville Arh Hospital** | Kentucky | 0.0% | **F** | 0 | 1 | [Barbourville Arh Hospital Diagnostic Report](Kentucky/Barbourville_Arh_Hospital/Barbourville_Arh_Hospital_Public_Audit_Report.pdf) |
 | **Apollo Behavioral Health Hospital, L L C** | Louisiana | 0.0% | **F** | 0 | 1 | [Apollo Behavioral Health Hospital, L L C Diagnostic Report](Louisiana/Apollo_Behavioral_Health_Hospital_L_L_C/Apollo_Behavioral_Health_Hospital_L_L_C_Public_Audit_Report.pdf) |
 | **Avoyelles Hospital** | Louisiana | 100.0% | **A+** | 29,999 | 12 | [Avoyelles Hospital Diagnostic Report](Louisiana/Avoyelles_Hospital/Avoyelles_Hospital_Public_Audit_Report.pdf) |
 | **Beacon Behavioral Hospital - Northshore, Llc** | Louisiana | 0.0% | **F** | 0 | 1 | [Beacon Behavioral Hospital - Northshore, Llc Diagnostic Report](Louisiana/Beacon_Behavioral_Hospital_-_Northshore_Llc/Beacon_Behavioral_Hospital_-_Northshore_Llc_Public_Audit_Report.pdf) |
+| **Bienville Medical Center** | Louisiana | 0.0% | **F** | 0 | 1 | [Bienville Medical Center Diagnostic Report](Louisiana/Bienville_Medical_Center/Bienville_Medical_Center_Public_Audit_Report.pdf) |
+| **Bridgepoint Continuing Care Hospital** | Louisiana | 53.9% | **F** | 7,685 | 8,526 | [Bridgepoint Continuing Care Hospital Diagnostic Report](Louisiana/Bridgepoint_Continuing_Care_Hospital/Bridgepoint_Continuing_Care_Hospital_Public_Audit_Report.pdf) |
+| **Christus Dubuis Hospital Of Alexandria** | Louisiana | 52.1% | **F** | 9,764 | 9,823 | [Christus Dubuis Hospital Of Alexandria Diagnostic Report](Louisiana/Christus_Dubuis_Hospital_Of_Alexandria/Christus_Dubuis_Hospital_Of_Alexandria_Public_Audit_Report.pdf) |
+| **Clearsky Rehabilitation Hospital Of Rosepine, Llc** | Louisiana | 0.0% | **F** | 0 | 1 | [Clearsky Rehabilitation Hospital Of Rosepine, Llc Diagnostic Report](Louisiana/Clearsky_Rehabilitation_Hospital_Of_Rosepine_Llc/Clearsky_Rehabilitation_Hospital_Of_Rosepine_Llc_Public_Audit_Report.pdf) |
 | **Howard County General Hospital** | Maryland | 84.7% | **B** | 13,376 | 2,119 | [Howard County General Hospital Diagnostic Report](Maryland/Howard_County_General_Hospital/Howard_County_General_Hospital_Public_Audit_Report.pdf) |
 | **Johns Hopkins Bayview Medical Center** | Maryland | 73.4% | **C** | 15,434 | 4,451 | [Johns Hopkins Bayview Medical Center Diagnostic Report](Maryland/Johns_Hopkins_Bayview_Medical_Center/Johns_Hopkins_Bayview_Medical_Center_Public_Audit_Report.pdf) |
 | **MedStar Franklin Square Medical Center** | Maryland | 0.0% | **F** | 0 | 1 | [MedStar Franklin Square Medical Center Diagnostic Report](Maryland/MedStar_Franklin_Square_Medical_Center/MedStar_Franklin_Square_Medical_Center_Public_Audit_Report.pdf) |
@@ -161,21 +175,39 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **The Johns Hopkins Hospital** | Maryland | 84.2% | **B** | 31,222 | 5,281 | [The Johns Hopkins Hospital Diagnostic Report](Maryland/The_Johns_Hopkins_Hospital/The_Johns_Hopkins_Hospital_Public_Audit_Report.pdf) |
 | **TidalHealth Nanticoke** | Maryland | 0.0% | **F** | 0 | 1 | [TidalHealth Nanticoke Diagnostic Report](Maryland/TidalHealth_Nanticoke/TidalHealth_Nanticoke_Public_Audit_Report.pdf) |
 | **TidalHealth Peninsula Regional** | Maryland | 0.0% | **F** | 0 | 1 | [TidalHealth Peninsula Regional Diagnostic Report](Maryland/TidalHealth_Peninsula_Regional/TidalHealth_Peninsula_Regional_Public_Audit_Report.pdf) |
+| **Boston Medical Center - Transplant Center** | Massachusetts | 0.0% | **F** | 0 | 1 | [Boston Medical Center - Transplant Center Diagnostic Report](Massachusetts/Boston_Medical_Center_-_Transplant_Center/Boston_Medical_Center_-_Transplant_Center_Public_Audit_Report.pdf) |
 | **Aspirus Ironwood Hospital** | Michigan | 0.0% | **F** | 0 | 1 | [Aspirus Ironwood Hospital Diagnostic Report](Michigan/Aspirus_Ironwood_Hospital/Aspirus_Ironwood_Hospital_Public_Audit_Report.pdf) |
 | **Aspirus Keweenaw Hospital** | Michigan | 0.0% | **F** | 0 | 1 | [Aspirus Keweenaw Hospital Diagnostic Report](Michigan/Aspirus_Keweenaw_Hospital/Aspirus_Keweenaw_Hospital_Public_Audit_Report.pdf) |
 | **Aspirus Ontonagon Hospital, Inc** | Michigan | 0.0% | **F** | 0 | 1 | [Aspirus Ontonagon Hospital, Inc Diagnostic Report](Michigan/Aspirus_Ontonagon_Hospital_Inc/Aspirus_Ontonagon_Hospital_Inc_Public_Audit_Report.pdf) |
 | **Baraga County Memorial Hospital** | Michigan | 59.0% | **F** | 3,583 | 3,366 | [Baraga County Memorial Hospital Diagnostic Report](Michigan/Baraga_County_Memorial_Hospital/Baraga_County_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Bca Stonecrest Center** | Michigan | 35.3% | **F** | 18 | 29 | [Bca Stonecrest Center Diagnostic Report](Michigan/Bca_Stonecrest_Center/Bca_Stonecrest_Center_Public_Audit_Report.pdf) |
+| **Edward W Sparrow Hospital** | Michigan | 0.0% | **F** | 0 | 1 | [Edward W Sparrow Hospital Diagnostic Report](Michigan/Edward_W_Sparrow_Hospital/Edward_W_Sparrow_Hospital_Public_Audit_Report.pdf) |
+| **Cook Hospital** | Minnesota | 59.0% | **F** | 1,859 | 1,858 | [Cook Hospital Diagnostic Report](Minnesota/Cook_Hospital/Cook_Hospital_Public_Audit_Report.pdf) |
+| **Choctaw Regional Medical Center** | Mississippi | 0.0% | **F** | 0 | 1 | [Choctaw Regional Medical Center Diagnostic Report](Mississippi/Choctaw_Regional_Medical_Center/Choctaw_Regional_Medical_Center_Public_Audit_Report.pdf) |
+| **Covington County Hospital Cah** | Mississippi | 0.0% | **F** | 0 | 1 | [Covington County Hospital Cah Diagnostic Report](Mississippi/Covington_County_Hospital_Cah/Covington_County_Hospital_Cah_Public_Audit_Report.pdf) |
+| **Doctors Hosp-** | Mississippi | 0.0% | **F** | 0 | 1 | [Doctors Hosp- Diagnostic Report](Mississippi/Doctors_Hosp-/Doctors_Hosp-_Public_Audit_Report.pdf) |
+| **Belton Regional Medical Center** | Missouri | 30.0% | **F** | 279,207 | 515,118 | [Belton Regional Medical Center Diagnostic Report](Missouri/Belton_Regional_Medical_Center/Belton_Regional_Medical_Center_Public_Audit_Report.pdf) |
+| **Centerpoint Medical Center** | Missouri | 30.6% | **F** | 279,413 | 493,403 | [Centerpoint Medical Center Diagnostic Report](Missouri/Centerpoint_Medical_Center/Centerpoint_Medical_Center_Public_Audit_Report.pdf) |
+| **Excelsior Springs Hospital** | Missouri | 0.0% | **F** | 0 | 1 | [Excelsior Springs Hospital Diagnostic Report](Missouri/Excelsior_Springs_Hospital/Excelsior_Springs_Hospital_Public_Audit_Report.pdf) |
 | **Beartooth Billings Clinic** | Montana | 0.0% | **F** | 0 | 1 | [Beartooth Billings Clinic Diagnostic Report](Montana/Beartooth_Billings_Clinic/Beartooth_Billings_Clinic_Public_Audit_Report.pdf) |
+| **Big Horn Hospital** | Montana | 0.0% | **F** | 0 | 1 | [Big Horn Hospital Diagnostic Report](Montana/Big_Horn_Hospital/Big_Horn_Hospital_Public_Audit_Report.pdf) |
+| **Clark Fork Valley Hospital** | Montana | 0.0% | **F** | 0 | 1 | [Clark Fork Valley Hospital Diagnostic Report](Montana/Clark_Fork_Valley_Hospital/Clark_Fork_Valley_Hospital_Public_Audit_Report.pdf) |
 | **Annie Jeffrey Memorial County Health Center** | Nebraska | 0.0% | **F** | 0 | 1 | [Annie Jeffrey Memorial County Health Center Diagnostic Report](Nebraska/Annie_Jeffrey_Memorial_County_Health_Center/Annie_Jeffrey_Memorial_County_Health_Center_Public_Audit_Report.pdf) |
+| **Bellevue Medical Center, Llc** | Nebraska | 0.0% | **F** | 0 | 1 | [Bellevue Medical Center, Llc Diagnostic Report](Nebraska/Bellevue_Medical_Center_Llc/Bellevue_Medical_Center_Llc_Public_Audit_Report.pdf) |
+| **Brown County Hospital** | Nebraska | 0.0% | **F** | 0 | 1 | [Brown County Hospital Diagnostic Report](Nebraska/Brown_County_Hospital/Brown_County_Hospital_Public_Audit_Report.pdf) |
+| **Desert Springs Hospital** | Nevada | 58.5% | **F** | 103,196 | 112,674 | [Desert Springs Hospital Diagnostic Report](Nevada/Desert_Springs_Hospital/Desert_Springs_Hospital_Public_Audit_Report.pdf) |
 | **Bayshore Medical Center** | New Jersey | 0.0% | **F** | 0 | 1 | [Bayshore Medical Center Diagnostic Report](New Jersey/Bayshore_Medical_Center/Bayshore_Medical_Center_Public_Audit_Report.pdf) |
 | **Inspira Medical Center Elmer** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical Center Elmer Diagnostic Report](New Jersey/Inspira_Medical_Center_Elmer/Inspira_Medical_Center_Elmer_Public_Audit_Report.pdf) |
 | **Inspira Medical center Vineland** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical center Vineland Diagnostic Report](New Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf) |
 | **Inspira Medical Center Woodbury** | New Jersey | 0.0% | **F** | 0 | 1 | [Inspira Medical Center Woodbury Diagnostic Report](New Jersey/Inspira_Medical_Center_Woodbury/Inspira_Medical_Center_Woodbury_Public_Audit_Report.pdf) |
+| **Covenant Health Hobbs Hospital** | New Mexico | 0.0% | **F** | 0 | 1 | [Covenant Health Hobbs Hospital Diagnostic Report](New Mexico/Covenant_Health_Hobbs_Hospital/Covenant_Health_Hobbs_Hospital_Public_Audit_Report.pdf) |
 | **Adirondack Medical Center - Saranac Lake** | New York | 0.0% | **F** | 0 | 1 | [Adirondack Medical Center - Saranac Lake Diagnostic Report](New York/Adirondack_Medical_Center_-_Saranac_Lake/Adirondack_Medical_Center_-_Saranac_Lake_Public_Audit_Report.pdf) |
 | **Brooke Glen Behavioral Hospital** | New York | 99.0% | **A+** | 561 | 5 | [Brooke Glen Behavioral Hospital Diagnostic Report](New York/Brooke_Glen_Behavioral_Hospital/Brooke_Glen_Behavioral_Hospital_Public_Audit_Report.pdf) |
+| **Calvary Hospital Inc** | New York | 0.0% | **F** | 0 | 1 | [Calvary Hospital Inc Diagnostic Report](New York/Calvary_Hospital_Inc/Calvary_Hospital_Inc_Public_Audit_Report.pdf) |
 | **Westfield Memorial Hospital** | New York | 0.0% | **F** | 0 | 1 | [Westfield Memorial Hospital Diagnostic Report](New York/Westfield_Memorial_Hospital/Westfield_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Adena Fayette Medical Center** | Ohio | 0.0% | **F** | 0 | 1 | [Adena Fayette Medical Center Diagnostic Report](Ohio/Adena_Fayette_Medical_Center/Adena_Fayette_Medical_Center_Public_Audit_Report.pdf) |
+| **Berger Hospital** | Ohio | 0.0% | **F** | 0 | 1 | [Berger Hospital Diagnostic Report](Ohio/Berger_Hospital/Berger_Hospital_Public_Audit_Report.pdf) |
+| **Dublin Methodist Hospital** | Ohio | 0.0% | **F** | 0 | 1 | [Dublin Methodist Hospital Diagnostic Report](Ohio/Dublin_Methodist_Hospital/Dublin_Methodist_Hospital_Public_Audit_Report.pdf) |
 | **Pioneer Memorial Hospital** | Oregon | 90.8% | **A-** | 77,044 | 8,290 | [Pioneer Memorial Hospital Diagnostic Report](Oregon/Pioneer_Memorial_Hospital/Pioneer_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **AHN Grove City** | Pennsylvania | 0.0% | **F** | 0 | 1 | [AHN Grove City Diagnostic Report](Pennsylvania/AHN_Grove_City/AHN_Grove_City_Public_Audit_Report.pdf) |
 | **Albert Einstein Medical Center** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Albert Einstein Medical Center Diagnostic Report](Pennsylvania/Albert_Einstein_Medical_Center/Albert_Einstein_Medical_Center_Public_Audit_Report.pdf) |
@@ -222,6 +254,7 @@ missing payer contract data, zero-dollar pricing placeholders, or schema non-com
 | **Wexford Hospital** | Pennsylvania | 0.0% | **F** | 0 | 1 | [Wexford Hospital Diagnostic Report](Pennsylvania/Wexford_Hospital/Wexford_Hospital_Public_Audit_Report.pdf) |
 | **Wills Eye Hospital** | Pennsylvania | 59.0% | **F** | 594 | 606 | [Wills Eye Hospital Diagnostic Report](Pennsylvania/Wills_Eye_Hospital/Wills_Eye_Hospital_Public_Audit_Report.pdf) |
 | **Aiken Regional Medical Center** | South Carolina | 79.4% | **C+** | 94,432 | 35,584 | [Aiken Regional Medical Center Diagnostic Report](South Carolina/Aiken_Regional_Medical_Center/Aiken_Regional_Medical_Center_Public_Audit_Report.pdf) |
+| **Clay County Memorial Hospital** | Texas | 99.6% | **A+** | 11,200 | 129 | [Clay County Memorial Hospital Diagnostic Report](Texas/Clay_County_Memorial_Hospital/Clay_County_Memorial_Hospital_Public_Audit_Report.pdf) |
 | **Medical Behavioral Hospital Of Northern Arizona, L** | Texas | 0.0% | **F** | 0 | 1 | [Medical Behavioral Hospital Of Northern Arizona, L Diagnostic Report](Texas/Medical_Behavioral_Hospital_Of_Northern_Arizona_L/Medical_Behavioral_Hospital_Of_Northern_Arizona_L_Public_Audit_Report.pdf) |
 
 ---
