@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://workbench.elitedatasolution.net</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -1561,6 +1561,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Kaiser+Foundation+Hospital+Antioch</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Kaiser+Foundation+Hospital+Baldwin+Park</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2461,6 +2479,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hca+Florida+Blake+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hca+Florida+Citrus+Hospital</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2475,6 +2511,60 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Citrus_Hospital/Hca_Florida_Citrus_Hospital_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hca+Florida+Fawcett+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hca+Florida+Lawnwood+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hca+Florida+Northside+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2551,6 +2641,78 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Sgmc+Berrien+Campus</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Wellstar+Douglas+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Wellstar+Kennestone+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Wellstar+Spalding+Regional+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Eastern+Idaho+Regional+Medical+Center</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2601,6 +2763,42 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Illinois/Community_First_Medical_Center/Community_First_Medical_Center_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Graham+Hospital+Association</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Northwestern+Medicine+Mchenry+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2659,6 +2857,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Wayne+County+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Arh+Our+Lady+Of+The+Way</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2691,6 +2907,24 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Kentucky/Barbourville_Arh_Hospital/Barbourville_Arh_Hospital_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Tug+Valley+Arh+Regional+Medical+Center</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2817,6 +3051,78 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Clearsky_Rehabilitation_Hospital_Of_Rosepine_Llc/Clearsky_Rehabilitation_Hospital_Of_Rosepine_Llc_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Leesville+Rehabilitation+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Pointe+Coupee+General+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=St+Landry+Extended+Care+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Sterling+Surgical+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3181,6 +3487,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Sparrow+Carson+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Cook+Hospital</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -3195,6 +3519,24 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Minnesota/Cook_Hospital/Cook_Hospital_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Olivia+Hospital+%26+Clinic</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3249,6 +3591,24 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Mississippi/Doctors_Hosp-/Doctors_Hosp-_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Memorial+Hospital+At+Gulfport</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3415,6 +3775,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Nemaha+County+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Desert+Springs+Hospital</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -3429,6 +3807,42 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Nevada/Desert_Springs_Hospital/Desert_Springs_Hospital_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Valley+Hospital+Medical+Center</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Upper+Connecticut+Valley+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/New%20Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/New%20Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3469,24 +3883,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Inspira+Medical+center+Vineland</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/New%20Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/New%20Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Inspira+Medical+Center+Woodbury</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -3500,6 +3896,24 @@
   </url>
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/New%20Jersey/Inspira_Medical_Center_Woodbury/Inspira_Medical_Center_Woodbury_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Inspira+Medical+center+Vineland</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/New%20Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/New%20Jersey/Inspira_Medical_center_Vineland/Inspira_Medical_center_Vineland_Public_Audit_Report.pdf</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -3645,6 +4059,24 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Ohio/Dublin_Methodist_Hospital/Dublin_Methodist_Hospital_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Hardin+Memorial+Hospital</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -4131,6 +4563,24 @@
   <url>
     <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Meadows_Psychiatric_Center/Meadows_Psychiatric_Center_Public_Audit_Report.pdf</loc>
     <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.elitedatasolution.net/hospital-price-transparency-index?search=Milton+S+Hershey+Medical+Center+Transplant+Center</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
