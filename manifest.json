@@ -2,7 +2,7 @@
     "metadata": {
         "title": "Elite Data Solution - Hospital Price Transparency Diagnostic Index",
         "version": "1.1.0",
-        "compiled_at": "2026-11-26T17:23:59.178984+00:00",
+        "compiled_at": "2026-11-27T04:42:28.002214+00:00",
         "repository": "https://github.com/Elite-Data-Solution/hospital-transparency-audits",
         "contact_email": "audit@elitedatasolution.net",
         "portal_url": "https://elitedatasolution.net",
@@ -4492,6 +4492,7 @@
             "obstruction_details": null,
             "pdf_filename": "Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf",
             "pdf_relative_path": "California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/California/Kaiser_Foundation_Hospital_Antioch/Kaiser_Foundation_Hospital_Antioch_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -6781,6 +6782,7 @@
             "obstruction_details": null,
             "pdf_filename": "Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Blake_Hospital/Hca_Florida_Blake_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -6907,6 +6909,7 @@
             "obstruction_details": null,
             "pdf_filename": "Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Fawcett_Hospital/Hca_Florida_Fawcett_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -6970,6 +6973,7 @@
             "obstruction_details": null,
             "pdf_filename": "Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Lawnwood_Hospital/Hca_Florida_Lawnwood_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7033,6 +7037,7 @@
             "obstruction_details": null,
             "pdf_filename": "Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Florida/Hca_Florida_Northside_Hospital/Hca_Florida_Northside_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7264,6 +7269,7 @@
             "obstruction_details": null,
             "pdf_filename": "Sgmc_Berrien_Campus_Public_Audit_Report.pdf",
             "pdf_relative_path": "Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Sgmc_Berrien_Campus/Sgmc_Berrien_Campus_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7299,6 +7305,7 @@
             "obstruction_details": null,
             "pdf_filename": "Wellstar_Douglas_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Douglas_Hospital/Wellstar_Douglas_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7334,6 +7341,7 @@
             "obstruction_details": null,
             "pdf_filename": "Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Kennestone_Hospital/Wellstar_Kennestone_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7369,6 +7377,7 @@
             "obstruction_details": null,
             "pdf_filename": "Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Georgia/Wellstar_Spalding_Regional_Hospital/Wellstar_Spalding_Regional_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7565,6 +7574,7 @@
             "obstruction_details": null,
             "pdf_filename": "Graham_Hospital_Association_Public_Audit_Report.pdf",
             "pdf_relative_path": "Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Illinois/Graham_Hospital_Association/Graham_Hospital_Association_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7600,6 +7610,7 @@
             "obstruction_details": null,
             "pdf_filename": "Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Illinois/Northwestern_Medicine_Mchenry_Hospital/Northwestern_Medicine_Mchenry_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7796,6 +7807,7 @@
             "obstruction_details": null,
             "pdf_filename": "Wayne_County_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Iowa/Wayne_County_Hospital/Wayne_County_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -7929,6 +7941,7 @@
             "obstruction_details": null,
             "pdf_filename": "Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf",
             "pdf_relative_path": "Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Kentucky/Tug_Valley_Arh_Regional_Medical_Center/Tug_Valley_Arh_Regional_Medical_Center_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -8293,6 +8306,7 @@
             "obstruction_details": null,
             "pdf_filename": "Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Leesville_Rehabilitation_Hospital/Leesville_Rehabilitation_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -8328,6 +8342,7 @@
             "obstruction_details": null,
             "pdf_filename": "Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Pointe_Coupee_General_Hospital/Pointe_Coupee_General_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -8391,6 +8406,7 @@
             "obstruction_details": null,
             "pdf_filename": "St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/St_Landry_Extended_Care_Hospital/St_Landry_Extended_Care_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -8454,6 +8470,7 @@
             "obstruction_details": null,
             "pdf_filename": "Sterling_Surgical_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Louisiana/Sterling_Surgical_Hospital/Sterling_Surgical_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -9357,6 +9374,7 @@
             "obstruction_details": null,
             "pdf_filename": "Sparrow_Carson_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Michigan/Sparrow_Carson_Hospital/Sparrow_Carson_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -9455,6 +9473,7 @@
             "obstruction_details": null,
             "pdf_filename": "Olivia_Hospital_Clinic_Public_Audit_Report.pdf",
             "pdf_relative_path": "Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Minnesota/Olivia_Hospital_Clinic/Olivia_Hospital_Clinic_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -9595,6 +9614,7 @@
             "obstruction_details": null,
             "pdf_filename": "Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf",
             "pdf_relative_path": "Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Mississippi/Memorial_Hospital_At_Gulfport/Memorial_Hospital_At_Gulfport_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -10001,6 +10021,7 @@
             "obstruction_details": null,
             "pdf_filename": "Nemaha_County_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Nebraska/Nemaha_County_Hospital/Nemaha_County_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -10127,6 +10148,7 @@
             "obstruction_details": null,
             "pdf_filename": "Valley_Hospital_Medical_Center_Public_Audit_Report.pdf",
             "pdf_relative_path": "Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Nevada/Valley_Hospital_Medical_Center/Valley_Hospital_Medical_Center_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -10190,6 +10212,7 @@
             "obstruction_details": null,
             "pdf_filename": "Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "New Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/New%20Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/New%20Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/New%20Hampshire/Upper_Connecticut_Valley_Hospital/Upper_Connecticut_Valley_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -10673,6 +10696,7 @@
             "obstruction_details": null,
             "pdf_filename": "Hardin_Memorial_Hospital_Public_Audit_Report.pdf",
             "pdf_relative_path": "Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Ohio/Hardin_Memorial_Hospital/Hardin_Memorial_Hospital_Public_Audit_Report.pdf",
             "sample_defects": [
@@ -11877,6 +11901,7 @@
             "obstruction_details": null,
             "pdf_filename": "Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf",
             "pdf_relative_path": "Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf",
+            "azure_pdf_url": "https://index.elitedatasolution.net/audits/Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf",
             "cdn_pdf_url": "https://cdn.jsdelivr.net/gh/Elite-Data-Solution/hospital-transparency-audits@main/Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf",
             "github_raw_pdf_url": "https://raw.githubusercontent.com/Elite-Data-Solution/hospital-transparency-audits/main/Pennsylvania/Milton_S_Hershey_Medical_Center_Transplant_Center/Milton_S_Hershey_Medical_Center_Transplant_Center_Public_Audit_Report.pdf",
             "sample_defects": [
