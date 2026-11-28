@@ -61,6 +61,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Fayette+Medical+Center</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Alabama/Fayette_Medical_Center/Fayette_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Hill+Crest+Behavioral+Health+Services</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -511,6 +523,42 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hosp+So+Sacramento</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hosp_So_Sacramento/Kaiser_Foundation_Hosp_So_Sacramento_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital/Kaiser_Foundation_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+-+Zion</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_-_Zion/Kaiser_Foundation_Hospital_-_Zion_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Anaheim</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -553,10 +601,46 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Fremont</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Fremont/Kaiser_Foundation_Hospital_Fremont_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Fresno</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Fresno/Kaiser_Foundation_Hospital_Fresno_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Los+Angeles</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Moreno+Valley</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Moreno_Valley/Kaiser_Foundation_Hospital_Moreno_Valley_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Oakland+Richmond</loc>
@@ -575,6 +659,18 @@
     <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Riverside</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Riverside/Kaiser_Foundation_Hospital_Riverside_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Roseville</loc>
@@ -607,16 +703,64 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+San+Leandro</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_San_Leandro/Kaiser_Foundation_Hospital_San_Leandro_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Santa+Clara</loc>
     <lastmod>2026-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Santa+Rosa</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Santa_Rosa/Kaiser_Foundation_Hospital_Santa_Rosa_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+South+Bay</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_South_Bay/Kaiser_Foundation_Hospital_South_Bay_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+South+San+Francisco</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Vacaville</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kaiser_Foundation_Hospital_Vacaville/Kaiser_Foundation_Hospital_Vacaville_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=Kaiser+Foundation+Hospital+Walnut+Creek</loc>
@@ -649,10 +793,34 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Kern+Valley+Healthcare+District</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Kern_Valley_Healthcare_District/Kern_Valley_Healthcare_District_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Los+Robles+Hospital+Medical+Center</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Pacific+Grove+Hospital</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/Pacific_Grove_Hospital/Pacific_Grove_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=Palmdale+Regional+Medical+Center</loc>
@@ -727,6 +895,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=University+Of+California%2C+Irvine+Medical+Center</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/California/University_Of_California_Irvine_Medical_Center/University_Of_California_Irvine_Medical_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Vibra+Hospital+Of+Sacramento</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -757,6 +937,102 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://index.elitedatasolution.net/?search=Haxtun+Hospital+District</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Haxtun_Hospital_District/Haxtun_Hospital_District_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Johnstown+Heights+Behavioral+Health+Llc</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Johnstown_Heights_Behavioral_Health_Llc/Johnstown_Heights_Behavioral_Health_Llc_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=National+Jewish+Health</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/National_Jewish_Health/National_Jewish_Health_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Peak+View+Behavioral+Health</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Peak_View_Behavioral_Health/Peak_View_Behavioral_Health_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Sedgwick+County+Memorial+Hospital</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Sedgwick_County_Memorial_Hospital/Sedgwick_County_Memorial_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Southeast+Colorado+Hospital</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Southeast_Colorado_Hospital/Southeast_Colorado_Hospital_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Vibra+Hospital+of+Denver</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/Vibra_Hospital_of_Denver/Vibra_Hospital_of_Denver_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=West+Springs+Hospital+Inc</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Colorado/West_Springs_Hospital_Inc/West_Springs_Hospital_Inc_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://index.elitedatasolution.net/?search=Nemours+Children%27s+Hospital</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -773,6 +1049,18 @@
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Hospital+for+Sick+Children+and+Pediatric+Center</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/District%20of%20Columbia/Hospital_for_Sick_Children_and_Pediatric_Center/Hospital_for_Sick_Children_and_Pediatric_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=MedStar+Georgetown+University+Hospital</loc>
@@ -1019,6 +1307,18 @@
     <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/?search=Lucas+County+Health+Center</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://index.elitedatasolution.net/audits/Iowa/Lucas_County_Health_Center/Lucas_County_Health_Center_Public_Audit_Report.pdf</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://index.elitedatasolution.net/?search=Wayne+County+Hospital</loc>

@@ -4,6 +4,8 @@
 # Proprietary remediation error ledgers, SQL patch scripts, and local JSON
 # summaries remain strictly isolated in local workspace vaults.
 offline_vault/
+rendered_pages/
+*.png
 *.csv
 *.json
 !manifest.json
